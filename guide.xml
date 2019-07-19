@@ -44,6 +44,22 @@
     <display-name lang="pt">HBO SIGNATURE</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
+  <channel id="ANIMAL PLANET">
+    <display-name lang="pt">ANIMAL PLANET</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SPORTTV 3">
+    <display-name lang="pt">SPORTTV 3</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SPORTTV 2">
+    <display-name lang="pt">SPORTTV 2</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SPORTTV">
+    <display-name lang="pt">SPORTTV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
   <programme start="20190719013500 -0300" stop="20190719032000 -0300" channel="TELECINE PREMIUM">
     <title lang="pt">Aplicativo Do Mal</title>
     <desc lang="pt">Josh passa boa parte do tempo criticando sites e decide, por diversão, participar do aplicativo I-Lived. Este promete melhorar a vida de seus usuários contanto que eles sigam suas ordens(n)</desc>
@@ -4917,6 +4933,654 @@
     <date>2011</date>
     <rating system="BR">
       <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719005100 -0300" stop="20190719014100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Caçadores de Veneno: Perigo na Selva</title>
+    <desc lang="pt">As frustrações se acumulam e a tensão aumenta. Em busca da cobra que quase o matou, Tim Fitzer testa os limites de sua equipe. Mas quando a noite cai numa floresta do Texas, um desastre acontece(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719014100 -0300" stop="20190719020600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Diário do Caçador de Crocodilos</title>
+    <desc lang="pt">O melhor amigo de Steve, Sui, se recupera de uma cirurgia arriscada. Meagan e Rick resgatam um dos animais mais estranhos da Austrália, a equidna. A equipe alimenta o maior réptil do mundo, o crocodilo-de-água-salgada(n)</desc>
+    <credits>
+      <director>John Stainton</director>
+    </credits>
+    <date>2000</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719020600 -0300" stop="20190719023100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Diário do Caçador de Crocodilos</title>
+    <desc lang="pt">A equipe enfrenta novos riscos quando tenta concretar um lago com um crocodilo dentro. O zoológico recebe uma fêmea de petauro-do-açúcar ferida com um filhote na bolsa(n)</desc>
+    <credits>
+      <director>John Stainton</director>
+    </credits>
+    <date>2000</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719023100 -0300" stop="20190719032100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Perdido no México</title>
+    <desc lang="pt">Frank tem dois objetivos nesta nova aventura: desbravar as ricas águas do Mar do Caribe e atravessar a selva mexicana para desvendar o grande enigma das profecias maias(n)</desc>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719032100 -0300" stop="20190719041100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Coração de Leão: A Primeira Presa</title>
+    <desc lang="pt">Val e Sirga são caçadores inexperientes, mas a sorte está a seu lado: eles conseguem formar a primeira dupla de caça entre um homem e um leão(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719041100 -0300" stop="20190719050100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Vida Selvagem com Evan: Aventura no Quênia</title>
+    <desc lang="pt">Evan visita o Quênia pela primeira vez. Durante a viagem, ele fica frente a frente com babuínos e guepardos, e tem um encontro intenso com um rinoceronte-negro(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719050100 -0300" stop="20190719055100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinário das Montanhas: Uma Nova Vida</title>
+    <desc lang="pt">O Dr. Jeff enfrenta uma cirurgia inédita para salvar um cão. O Dr. Baier trata um bichinho com muita personalidade. A equipe da Planned Pethood proporciona uma segunda chance a cães resgatados(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719055100 -0300" stop="20190719061600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <desc lang="pt">Chris Kri tem como missão salvar o Recife Patricia, cujos corais estão sendo devastados pela pesca de arrasto. A solução é instalar 120 bolas de concreto no fundo do mar, mas a operação é complicada(n)</desc>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719061600 -0300" stop="20190719064200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <desc lang="pt">Especialistas revelam como enxames de morcegos cegos conseguem evitar colisões. Os ratos gostam mesmo de queijo? Por que os gases dos peixes-boi são especiais? E por que as lesmas são tão pegajosas(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719064200 -0300" stop="20190719070700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <desc lang="pt">Especialistas explicam por que as baleias saltam tão alto fora d'água. Por que os cães inclinam a cabeça? Por que os animais formam enxames? Como as aranhas trocam de pele(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719070700 -0300" stop="20190719075700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">SOS Meu Pet Come Mal</title>
+    <desc lang="pt">O conhecimento de Travis é colocado à prova quando ele é chamado para ajudar um gato de quase 11 quilos. Um mestiço de chihuahua precisa perder peso antes de uma cirurgia que mudará sua vida(n)</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719075700 -0300" stop="20190719084700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">SOS Meu Pet Come Mal: O Beagle Glutão</title>
+    <desc lang="pt">Travis ajuda Jim e Natalie a impedir que seu beagle coma em excesso e roube comida. Um casal que deu abrigo temporário a um papillon precisa que o cachorro chegue a seu peso ideal para ser adotado(n)</desc>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719084700 -0300" stop="20190719093700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">SOS Meu Pet Come Mal: Pets de Peso</title>
+    <desc lang="pt">O desafio de Travis é mudar o ambiente doméstico de um gato com sobrepeso e problemas médicos. Ele também precisa alertar os pais superprotetores de um cachorro com mais de 38 quilos(n)</desc>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719093700 -0300" stop="20190719100200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <desc lang="pt">Especialistas revelam como enxames de morcegos cegos conseguem evitar colisões. Os ratos gostam mesmo de queijo? Por que os gases dos peixes-boi são especiais? E por que as lesmas são tão pegajosas(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719100200 -0300" stop="20190719102700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <desc lang="pt">Especialistas explicam por que as baleias saltam tão alto fora d'água. Por que os cães inclinam a cabeça? Por que os animais formam enxames? Como as aranhas trocam de pele(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719102700 -0300" stop="20190719111700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal: Sangue e Vísceras</title>
+    <desc lang="pt">Na temporada de inverno, sangue é derramado no Time Bandit, uma briga começa no Wizard, o Northwestern tenta se recuperar do incêndio e uma aposta é perdida a bordo do Brenna A(n)</desc>
+    <credits>
+      <actor>Mike Rowe</actor>
+      <actor>Edgar Hansen</actor>
+      <actor>Scott Hillstrand</actor>
+      <actor>Deadliest Catch</actor>
+      <actor>Andy Hillstrand</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S12 E15</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719111700 -0300" stop="20190719120700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Criaturas Estranhas: África do Sul - Leões Brancos</title>
+    <desc lang="pt">Dom está na África do Sul em busca dos felinos mais raros do mundo: os leões brancos de Timbavati. Como existem apenas 13 em estado selvagem, é uma oportunidade realmente única(n)</desc>
+    <credits>
+      <actor>Dominic Monaghan</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719120700 -0300" stop="20190719130000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">A Família Irwin</title>
+    <desc lang="pt">Pela primeira vez, após meses de treinamento, Robert vai dar comida para o crocodilo mais perigoso do zoológico, diante de 5 mil pessoas. Bindi testemunhou um dos eventos mais raros da natureza: uma coala deu à luz gêmeos(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719130000 -0300" stop="20190719135000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinários do Texas: Dia de Treinamento</title>
+    <desc lang="pt">Dr. Lavigne extrai tumores de um cão idoso, enquanto Dr. Ross tenta salvar a pata de um coelho atacado por um cachorro. Dr. Blue visita uma fazenda para castrar um burro agressivo(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719135000 -0300" stop="20190719144000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinários do Texas: Luz, Câmera, Ação</title>
+    <desc lang="pt">Dr. Blue corre contra o tempo para remover filhotes presos no útero de uma cadela. Dr. Ross e Dr. Lavigne atendem animais com graves problemas oculares. Depois, eles criam um vídeo para a clínica(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719144000 -0300" stop="20190719153000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinários do Texas: Respeite Os Animais</title>
+    <desc lang="pt">O Dr. Ross conversa com donos de um zoológico para organizar um evento na clínica para promover a conscientização sobre os animais. O Dr. Blue remove um tumor de um mestiço de pit bull(n)</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719153000 -0300" stop="20190719162000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Os Reis da Selva: Perigo no Capim Alto</title>
+    <desc lang="pt">A dinâmica do bando Marsh muda com a apresentação dos recém-nascidos de Charm aos filhotes mais velhos. Malaika persegue gnus para alimentar sua prole. Bahati revela seus filhotes a Jonathan(n)</desc>
+    <credits>
+      <director>Abraham Joffe</director>
+      <actor>Jackson Looseyia</actor>
+      <actor>Angela Scott</actor>
+      <actor>Jonathan Scott</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719162000 -0300" stop="20190719171000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Os Reis da Selva: Batalha nas Planícies</title>
+    <desc lang="pt">Bahati luta para proteger seus três filhotes de babuínos e leões. As leoas do bando Marsh caçam um búfalo ferido e correm perigo com a chegada de seis leões. Malaika encontra seu parceiro durante uma luta contra um impala(n)</desc>
+    <credits>
+      <director>Abraham Joffe</director>
+      <actor>Jackson Looseyia</actor>
+      <actor>Angela Scott</actor>
+      <actor>Jonathan Scott</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719171000 -0300" stop="20190719180000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Os Reis da Selva: Faces das Sombras</title>
+    <desc lang="pt">Depois de meses, o bando retorna à Mara durante a migração dos gnus. O bando Marsh desaparece de vista. Surge uma rara coalizão de cinco guepardos machos. A caçada de Bahati é interrompida pela intervenção de um crocodilo(n)</desc>
+    <credits>
+      <director>Abraham Joffe</director>
+      <actor>Jackson Looseyia</actor>
+      <actor>Angela Scott</actor>
+      <actor>Jonathan Scott</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719180000 -0300" stop="20190719182600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">S.O.S. Castores</title>
+    <desc lang="pt">Charlie e seus rapazes são chamados quando um grupo de jogadores de curling fica preso em uma estrada, já que um bando de castores inundou a passagem(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719182600 -0300" stop="20190719185100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">S.O.S. Castores</title>
+    <desc lang="pt">A equipe cuida de uma situação espinhosa no parque selvagem local, onde um porco-espinho invadiu o recinto de um alce. Os rapazes ainda ajudam um churrasqueiro atrapalhado por um gambá(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719185100 -0300" stop="20190719194300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio: Cabeça-de-cobra-gigante</title>
+    <desc lang="pt">Jeremy Wade procura uma cobra predadora originária do Oriente que invade os quintais americanos(n)</desc>
+    <credits>
+      <director>Barny Revill</director>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719194300 -0300" stop="20190719203400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Selvagem</title>
+    <desc lang="pt">Nas águas escuras da selva amazônica, vive uma criatura digna de um pesadelo: o peixe-vampiro. Para localizar esse predador temível, Cyril aprende técnicas de caça tribais e enfrenta jacarés(n)</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719203400 -0300" stop="20190719212500 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Selvagem: Demônio das Profundezas</title>
+    <desc lang="pt">Cyril vai até o arquipélago dos Bijágos, na Guiné-Bissau, em busca de um peixe extremamente forte e perigoso: a caranha(n)</desc>
+    <date>2012</date>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719212500 -0300" stop="20190719221600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas: O Rei Perdido do Alasca</title>
+    <desc lang="pt">Jeremy Wade viaja para o Alasca pra investigar o desaparecimento do majestoso salmão real. Sua busca o levará ao coração do território dos ursos-pardos, a comunidades nativas isoladas e ao Oceano Pacífico(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719221600 -0300" stop="20190719230700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas: O Mistério da Água Fria</title>
+    <desc lang="pt">A bordo de um barco de pesca comercial no Alasca, o pescador e aventureiro Jeremy Wade procura o linguado-gigante, um peixe que pesa mais de 20 quilos(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719230700 -0300" stop="20190719235800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal: Furacão Ártico</title>
+    <desc lang="pt">Um enorme furacão ártico atinge a frota com ventos fortes e ondas grandes. Uma pilha instável ameaça emborcar o Saga. Enquanto os capitães se preparam para voltar ao porto, Wild Bill se arrisca para atingir a cota(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S14 E6</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719235800 -0300" stop="20190720005100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal: Duelo de Titãs</title>
+    <desc lang="pt">Jake se arrepende de um acordo quando seu barco corre riscos. Wild Bill tenta ganhar uma fortuna com os caranguejos-reais. A tripulação do Cornelia Marie descobre que quando se aposta num barco, o capitão sempre vence(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S14 E7</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720005100 -0300" stop="20190720014100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Caçadores de Veneno: Perigo na Selva</title>
+    <desc lang="pt">As frustrações se acumulam e a tensão aumenta. Em busca da cobra que quase o matou, Tim Fitzer testa os limites de sua equipe. Mas quando a noite cai numa floresta do Texas, um desastre acontece(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720014100 -0300" stop="20190720020600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Diário do Caçador de Crocodilos</title>
+    <desc lang="pt">O melhor amigo de Steve, Sui, se recupera de uma cirurgia arriscada. Meagan e Rick resgatam um dos animais mais estranhos da Austrália, a equidna. A equipe alimenta o maior réptil do mundo, o crocodilo-de-água-salgada(n)</desc>
+    <credits>
+      <director>John Stainton</director>
+    </credits>
+    <date>2000</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720020600 -0300" stop="20190720023100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Diário do Caçador de Crocodilos</title>
+    <desc lang="pt">A equipe enfrenta novos riscos quando tenta concretar um lago com um crocodilo dentro. O zoológico recebe uma fêmea de petauro-do-açúcar ferida com um filhote na bolsa(n)</desc>
+    <credits>
+      <director>John Stainton</director>
+    </credits>
+    <date>2000</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720023100 -0300" stop="20190720032100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Perdido no México</title>
+    <desc lang="pt">Frank tem dois objetivos nesta nova aventura: desbravar as ricas águas do Mar do Caribe e atravessar a selva mexicana para desvendar o grande enigma das profecias maias(n)</desc>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720032100 -0300" stop="20190720041100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Coração de Leão: A Primeira Presa</title>
+    <desc lang="pt">Val e Sirga são caçadores inexperientes, mas a sorte está a seu lado: eles conseguem formar a primeira dupla de caça entre um homem e um leão(n)</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720041100 -0300" stop="20190720050100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Vida Selvagem com Evan: Aventura no Quênia</title>
+    <desc lang="pt">Evan visita o Quênia pela primeira vez. Durante a viagem, ele fica frente a frente com babuínos e guepardos, e tem um encontro intenso com um rinoceronte-negro(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720050100 -0300" stop="20190720055100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinário das Montanhas: Uma Nova Vida</title>
+    <desc lang="pt">O Dr. Jeff enfrenta uma cirurgia inédita para salvar um cão. O Dr. Baier trata um bichinho com muita personalidade. A equipe da Planned Pethood proporciona uma segunda chance a cães resgatados(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720055100 -0300" stop="20190720061600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <desc lang="pt">Chris Kri tem como missão salvar o Recife Patricia, cujos corais estão sendo devastados pela pesca de arrasto. A solução é instalar 120 bolas de concreto no fundo do mar, mas a operação é complicada(n)</desc>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720061600 -0300" stop="20190720064200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <desc lang="pt">Especialistas revelam como enxames de morcegos cegos conseguem evitar colisões. Os ratos gostam mesmo de queijo? Por que os gases dos peixes-boi são especiais? E por que as lesmas são tão pegajosas(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720064200 -0300" stop="20190720070700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <desc lang="pt">Especialistas explicam por que as baleias saltam tão alto fora d'água. Por que os cães inclinam a cabeça? Por que os animais formam enxames? Como as aranhas trocam de pele(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720070700 -0300" stop="20190720075700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">SOS Meu Pet Come Mal</title>
+    <desc lang="pt">O conhecimento de Travis é colocado à prova quando ele é chamado para ajudar um gato de quase 11 quilos. Um mestiço de chihuahua precisa perder peso antes de uma cirurgia que mudará sua vida(n)</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720075700 -0300" stop="20190720084700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">SOS Meu Pet Come Mal: O Beagle Glutão</title>
+    <desc lang="pt">Travis ajuda Jim e Natalie a impedir que seu beagle coma em excesso e roube comida. Um casal que deu abrigo temporário a um papillon precisa que o cachorro chegue a seu peso ideal para ser adotado(n)</desc>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720084700 -0300" stop="20190720093700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">SOS Meu Pet Come Mal: Pets de Peso</title>
+    <desc lang="pt">O desafio de Travis é mudar o ambiente doméstico de um gato com sobrepeso e problemas médicos. Ele também precisa alertar os pais superprotetores de um cachorro com mais de 38 quilos(n)</desc>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720093700 -0300" stop="20190720100200 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <desc lang="pt">Especialistas revelam como enxames de morcegos cegos conseguem evitar colisões. Os ratos gostam mesmo de queijo? Por que os gases dos peixes-boi são especiais? E por que as lesmas são tão pegajosas(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720100200 -0300" stop="20190720102700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">O Incrível Mundo Animal</title>
+    <desc lang="pt">Especialistas explicam por que as baleias saltam tão alto fora d'água. Por que os cães inclinam a cabeça? Por que os animais formam enxames? Como as aranhas trocam de pele(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720102700 -0300" stop="20190720111700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal: Sangue e Vísceras</title>
+    <desc lang="pt">Na temporada de inverno, sangue é derramado no Time Bandit, uma briga começa no Wizard, o Northwestern tenta se recuperar do incêndio e uma aposta é perdida a bordo do Brenna A(n)</desc>
+    <credits>
+      <actor>Mike Rowe</actor>
+      <actor>Edgar Hansen</actor>
+      <actor>Scott Hillstrand</actor>
+      <actor>Deadliest Catch</actor>
+      <actor>Andy Hillstrand</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S12 E15</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720111700 -0300" stop="20190720120700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Criaturas Estranhas: África do Sul - Leões Brancos</title>
+    <desc lang="pt">Dom está na África do Sul em busca dos felinos mais raros do mundo: os leões brancos de Timbavati. Como existem apenas 13 em estado selvagem, é uma oportunidade realmente única(n)</desc>
+    <credits>
+      <actor>Dominic Monaghan</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720120700 -0300" stop="20190720130000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">A Família Irwin</title>
+    <desc lang="pt">Pela primeira vez, após meses de treinamento, Robert vai dar comida para o crocodilo mais perigoso do zoológico, diante de 5 mil pessoas. Bindi testemunhou um dos eventos mais raros da natureza: uma coala deu à luz gêmeos(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720130000 -0300" stop="20190720135000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinários do Texas: Dia de Treinamento</title>
+    <desc lang="pt">Dr. Lavigne extrai tumores de um cão idoso, enquanto Dr. Ross tenta salvar a pata de um coelho atacado por um cachorro. Dr. Blue visita uma fazenda para castrar um burro agressivo(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720135000 -0300" stop="20190720144000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinários do Texas: Luz, Câmera, Ação</title>
+    <desc lang="pt">Dr. Blue corre contra o tempo para remover filhotes presos no útero de uma cadela. Dr. Ross e Dr. Lavigne atendem animais com graves problemas oculares. Depois, eles criam um vídeo para a clínica(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720144000 -0300" stop="20190720153000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinários do Texas: Respeite Os Animais</title>
+    <desc lang="pt">O Dr. Ross conversa com donos de um zoológico para organizar um evento na clínica para promover a conscientização sobre os animais. O Dr. Blue remove um tumor de um mestiço de pit bull(n)</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720153000 -0300" stop="20190720162000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Os Reis da Selva: Perigo no Capim Alto</title>
+    <desc lang="pt">A dinâmica do bando Marsh muda com a apresentação dos recém-nascidos de Charm aos filhotes mais velhos. Malaika persegue gnus para alimentar sua prole. Bahati revela seus filhotes a Jonathan(n)</desc>
+    <credits>
+      <director>Abraham Joffe</director>
+      <actor>Jackson Looseyia</actor>
+      <actor>Angela Scott</actor>
+      <actor>Jonathan Scott</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720162000 -0300" stop="20190720171000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Os Reis da Selva: Batalha nas Planícies</title>
+    <desc lang="pt">Bahati luta para proteger seus três filhotes de babuínos e leões. As leoas do bando Marsh caçam um búfalo ferido e correm perigo com a chegada de seis leões. Malaika encontra seu parceiro durante uma luta contra um impala(n)</desc>
+    <credits>
+      <director>Abraham Joffe</director>
+      <actor>Jackson Looseyia</actor>
+      <actor>Angela Scott</actor>
+      <actor>Jonathan Scott</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720171000 -0300" stop="20190720180000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Os Reis da Selva: Faces das Sombras</title>
+    <desc lang="pt">Depois de meses, o bando retorna à Mara durante a migração dos gnus. O bando Marsh desaparece de vista. Surge uma rara coalizão de cinco guepardos machos. A caçada de Bahati é interrompida pela intervenção de um crocodilo(n)</desc>
+    <credits>
+      <director>Abraham Joffe</director>
+      <actor>Jackson Looseyia</actor>
+      <actor>Angela Scott</actor>
+      <actor>Jonathan Scott</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720180000 -0300" stop="20190720182600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">S.O.S. Castores</title>
+    <desc lang="pt">Charlie e seus rapazes são chamados quando um grupo de jogadores de curling fica preso em uma estrada, já que um bando de castores inundou a passagem(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720182600 -0300" stop="20190720185100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">S.O.S. Castores</title>
+    <desc lang="pt">A equipe cuida de uma situação espinhosa no parque selvagem local, onde um porco-espinho invadiu o recinto de um alce. Os rapazes ainda ajudam um churrasqueiro atrapalhado por um gambá(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720185100 -0300" stop="20190720194300 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio: Cabeça-de-cobra-gigante</title>
+    <desc lang="pt">Jeremy Wade procura uma cobra predadora originária do Oriente que invade os quintais americanos(n)</desc>
+    <credits>
+      <director>Barny Revill</director>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720194300 -0300" stop="20190720203400 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Selvagem</title>
+    <desc lang="pt">Nas águas escuras da selva amazônica, vive uma criatura digna de um pesadelo: o peixe-vampiro. Para localizar esse predador temível, Cyril aprende técnicas de caça tribais e enfrenta jacarés(n)</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720203400 -0300" stop="20190720212500 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Selvagem: Demônio das Profundezas</title>
+    <desc lang="pt">Cyril vai até o arquipélago dos Bijágos, na Guiné-Bissau, em busca de um peixe extremamente forte e perigoso: a caranha(n)</desc>
+    <date>2012</date>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720212500 -0300" stop="20190720221600 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas: O Rei Perdido do Alasca</title>
+    <desc lang="pt">Jeremy Wade viaja para o Alasca pra investigar o desaparecimento do majestoso salmão real. Sua busca o levará ao coração do território dos ursos-pardos, a comunidades nativas isoladas e ao Oceano Pacífico(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720221600 -0300" stop="20190720230700 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Jeremy Wade: Águas Misteriosas: O Mistério da Água Fria</title>
+    <desc lang="pt">A bordo de um barco de pesca comercial no Alasca, o pescador e aventureiro Jeremy Wade procura o linguado-gigante, um peixe que pesa mais de 20 quilos(n)</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720230700 -0300" stop="20190720235800 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal: Furacão Ártico</title>
+    <desc lang="pt">Um enorme furacão ártico atinge a frota com ventos fortes e ondas grandes. Uma pilha instável ameaça emborcar o Saga. Enquanto os capitães se preparam para voltar ao porto, Wild Bill se arrisca para atingir a cota(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S14 E6</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720235800 -0300" stop="20190721005100 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Pesca Mortal: Duelo de Titãs</title>
+    <desc lang="pt">Jake se arrepende de um acordo quando seu barco corre riscos. Wild Bill tenta ganhar uma fortuna com os caranguejos-reais. A tripulação do Cornelia Marie descobre que quando se aposta num barco, o capitão sempre vence(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S14 E7</episode-num>
+    <rating system="BR">
+      <value>7+</value>
     </rating>
   </programme>
 </tv>
