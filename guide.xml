@@ -20,6 +20,30 @@
     <display-name lang="pt">TELECINE PIPOCA</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
+  <channel id="TELECINE CULT">
+    <display-name lang="pt">TELECINE CULT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO PLUS">
+    <display-name lang="pt">HBO PLUS</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO FAMILY">
+    <display-name lang="pt">HBO FAMILY</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO SIGNATURE">
+    <display-name lang="pt">HBO SIGNATURE</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
   <programme start="20190719013500 -0300" stop="20190719032000 -0300" channel="TELECINE PREMIUM">
     <title lang="pt">Aplicativo Do Mal</title>
     <desc lang="pt">Josh passa boa parte do tempo criticando sites e decide, por diversão, participar do aplicativo I-Lived. Este promete melhorar a vida de seus usuários contanto que eles sigam suas ordens(n)</desc>
@@ -1932,6 +1956,2967 @@
     <date>2018</date>
     <rating system="BR">
       <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719013000 -0300" stop="20190719032000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Estranha Caravana</title>
+    <desc lang="pt">No início do século 19, no Alabama, Fleurette DeMarchand, filha de um general francês exilado, se encanta pelo soldado John Breen. Apesar da reciprocidade, o casal não pode viver esse amor(n)</desc>
+    <credits>
+      <director>George Waggner</director>
+      <actor>John Wayne</actor>
+      <actor>Oliver Hardy</actor>
+      <actor>Philip Dorn</actor>
+      <actor>Vera Ralston</actor>
+    </credits>
+    <date>1949</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719032000 -0300" stop="20190719051000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Segunda Chance</title>
+    <desc lang="pt">Andreas é um policial que vive com a esposa e o filho pequeno. Quando é acionado para intervir numa briga doméstica, ele encontra um casal de viciados e um bebê em condições deploráveis(n)</desc>
+    <credits>
+      <director>Susanne Bier</director>
+      <actor>Nikolaj Coster-Waldau</actor>
+      <actor>Nikolaj Kaas</actor>
+      <actor>Ulrich Thomsen</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719051000 -0300" stop="20190719073000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Bon Voyage, Enfim Paris</title>
+    <desc lang="pt">A família Willard sai do interior dos Estados Unidos para uma viagem de navio em direção a Paris. Lá, Harry, Katie e seus três filhos vão viver diversas experiências inusitadas ao conhecerem a cultura europeia(n)</desc>
+    <credits>
+      <director>James Neilson</director>
+      <actor>Fred Macmurray</actor>
+      <actor>Deborah Walley</actor>
+      <actor>Jane Wyman</actor>
+      <actor>Michael Callan</actor>
+    </credits>
+    <date>1962</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719073000 -0300" stop="20190719091000 -0300" channel="TELECINE CULT">
+    <title lang="pt">A Incrível Jornada De Jacqueline</title>
+    <desc lang="pt">O pequeno fazendeiro argelino Fatah sonha em ver sua vaca, Jacqueline, na famosa exposição agropecuária de Paris. Para conseguir isso, ele conta com a ajuda da comunidade e decide cruzar a França a pé com ela(n)</desc>
+    <credits>
+      <director>Mohamed Hamidi</director>
+      <actor>Fatsah Bouyahmed</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Lambert Wilson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719091000 -0300" stop="20190719105000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Rainha Do Mundo</title>
+    <desc lang="pt">Melhores amigas, Catherine e Virgínia cresceram juntas. Em busca de se recuperar de traumas recentes, Catherine vai para a casa de campo da amiga(n)</desc>
+    <credits>
+      <director>Alex Ross Perry</director>
+      <actor>Elisabeth Moss</actor>
+      <actor>Katherine Waterston</actor>
+      <actor>Patrick Fugit</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719105000 -0300" stop="20190719123500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Papa Francisco: Um Homem De Palavra</title>
+    <desc lang="pt">O Papa Francisco abre as portas do Vaticano para abordar uma série de questões relevantes para a sociedade, dentre elas família, justiça e imigração(n)</desc>
+    <credits>
+      <director>Wim Wenders</director>
+      <actor>Pope Francis</actor>
+      <actor>Evo Morales</actor>
+      <actor>Ignazio Oliva</actor>
+      <actor>Irmã María Eufemia Goycoechea</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719123500 -0300" stop="20190719152000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Quando Explode A Vingança</title>
+    <desc lang="pt">O criminoso Juan Miranda convence o especialista em explosivos Sean Mallory a roubar um banco. Quando abrem o cofre do local, eles libertam um grupo de presos políticos que ficavam detidos ali(n)</desc>
+    <credits>
+      <director>Sergio Leone</director>
+      <actor>James Coburn</actor>
+      <actor>Rod Steiger</actor>
+      <actor>Romolo Valli</actor>
+    </credits>
+    <date>1971</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719152000 -0300" stop="20190719165000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Paranoid Park</title>
+    <desc lang="pt">Alex vai para o Paranoid Park. Logo após, é noticiado um acidente no local e um detetive interroga o garoto. Enquanto lida com as suspeitas, Alex também enfrenta o divórcio dos pais e as exigências de sua namorada(n)</desc>
+    <credits>
+      <director>Gus Van Sant</director>
+      <actor>Gabe Nevins</actor>
+      <actor>Daniel Liu</actor>
+      <actor>Jake Miller</actor>
+      <actor>Taylor Momsen</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719165000 -0300" stop="20190719182500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Luzes Da Cidade</title>
+    <desc lang="pt">O Vagabundo se apaixona por uma bela florista cega. Sabendo que ela e sua avó estão prestes a ser despejadas da casa onde moram, ele cria inúmeras formas de ganhar dinheiro para ajudá-las(n)</desc>
+    <credits>
+      <director>Charles Chaplin</director>
+      <actor>Charles Chaplin</actor>
+      <actor>Harry Myers</actor>
+      <actor>Virginia Cherrill</actor>
+    </credits>
+    <date>1931</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719182500 -0300" stop="20190719201000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Era O Hotel Cambridge</title>
+    <desc lang="pt">Um grupo de sem-tetos ocupa o prédio onde funcionava o Hotel Cambridge no centro de São Paulo. Entre eles, refugiados recém-chegados ao Brasil(n)</desc>
+    <credits>
+      <director>Eliane Caffé</director>
+      <actor>Carmen Silva</actor>
+      <actor>Isam Ahmad Issa</actor>
+      <actor>José Dumont</actor>
+      <actor>Suely Franco</actor>
+      <actor>Thaíssa Carvalho</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719201000 -0300" stop="20190719220000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Jovens, Loucos &amp; Rebeldes</title>
+    <desc lang="pt">Em 1976, no Texas, adolescentes aproveitam o último dia de aula do ano. Conforme a tradição, os veteranos promovem uma série de(n)</desc>
+    <credits>
+      <director>Richard Linklater</director>
+      <actor>Jason London</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Wiley Wiggins</actor>
+    </credits>
+    <date>1993</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719220000 -0300" stop="20190719235500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Justiça Sob Tutela</title>
+    <desc lang="pt">Artie Lewis é um policial muito ético que acaba de perder seu parceiro de trabalho durante um tiroteio. Ele resolve então adotar as filhas do amigo, mas o Serviço de Adoção cria empecilhos(n)</desc>
+    <credits>
+      <director>Heywood Gould</director>
+      <actor>Michael Keaton</actor>
+      <actor>Anthony Lapaglia</actor>
+      <actor>Benjamin Bratt</actor>
+      <actor>Rene Russo</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719235500 -0300" stop="20190720013000 -0300" channel="TELECINE CULT">
+    <title lang="pt">A Mão Que Balança O Berço</title>
+    <desc lang="pt">Claire e Michael Bartel enfrentam dificuldades em achar a babá ideal para cuidar da filha. Quando conhecem Peyton, uma mulher inteligente e encantadora, eles acreditam que seus problemas chegaram ao fim(n)</desc>
+    <credits>
+      <director>Curtis Hanson</director>
+      <actor>Annabella Sciorra</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Matt McCoy</actor>
+      <actor>Rebecca De Mornay</actor>
+    </credits>
+    <date>1992</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720013000 -0300" stop="20190720032000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Estranha Caravana</title>
+    <desc lang="pt">No início do século 19, no Alabama, Fleurette DeMarchand, filha de um general francês exilado, se encanta pelo soldado John Breen. Apesar da reciprocidade, o casal não pode viver esse amor(n)</desc>
+    <credits>
+      <director>George Waggner</director>
+      <actor>John Wayne</actor>
+      <actor>Oliver Hardy</actor>
+      <actor>Philip Dorn</actor>
+      <actor>Vera Ralston</actor>
+    </credits>
+    <date>1949</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720032000 -0300" stop="20190720051000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Segunda Chance</title>
+    <desc lang="pt">Andreas é um policial que vive com a esposa e o filho pequeno. Quando é acionado para intervir numa briga doméstica, ele encontra um casal de viciados e um bebê em condições deploráveis(n)</desc>
+    <credits>
+      <director>Susanne Bier</director>
+      <actor>Nikolaj Coster-Waldau</actor>
+      <actor>Nikolaj Kaas</actor>
+      <actor>Ulrich Thomsen</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720051000 -0300" stop="20190720073000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Bon Voyage, Enfim Paris</title>
+    <desc lang="pt">A família Willard sai do interior dos Estados Unidos para uma viagem de navio em direção a Paris. Lá, Harry, Katie e seus três filhos vão viver diversas experiências inusitadas ao conhecerem a cultura europeia(n)</desc>
+    <credits>
+      <director>James Neilson</director>
+      <actor>Fred Macmurray</actor>
+      <actor>Deborah Walley</actor>
+      <actor>Jane Wyman</actor>
+      <actor>Michael Callan</actor>
+    </credits>
+    <date>1962</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720073000 -0300" stop="20190720091000 -0300" channel="TELECINE CULT">
+    <title lang="pt">A Incrível Jornada De Jacqueline</title>
+    <desc lang="pt">O pequeno fazendeiro argelino Fatah sonha em ver sua vaca, Jacqueline, na famosa exposição agropecuária de Paris. Para conseguir isso, ele conta com a ajuda da comunidade e decide cruzar a França a pé com ela(n)</desc>
+    <credits>
+      <director>Mohamed Hamidi</director>
+      <actor>Fatsah Bouyahmed</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Lambert Wilson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720091000 -0300" stop="20190720105000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Rainha Do Mundo</title>
+    <desc lang="pt">Melhores amigas, Catherine e Virgínia cresceram juntas. Em busca de se recuperar de traumas recentes, Catherine vai para a casa de campo da amiga(n)</desc>
+    <credits>
+      <director>Alex Ross Perry</director>
+      <actor>Elisabeth Moss</actor>
+      <actor>Katherine Waterston</actor>
+      <actor>Patrick Fugit</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720105000 -0300" stop="20190720123500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Papa Francisco: Um Homem De Palavra</title>
+    <desc lang="pt">O Papa Francisco abre as portas do Vaticano para abordar uma série de questões relevantes para a sociedade, dentre elas família, justiça e imigração(n)</desc>
+    <credits>
+      <director>Wim Wenders</director>
+      <actor>Pope Francis</actor>
+      <actor>Evo Morales</actor>
+      <actor>Ignazio Oliva</actor>
+      <actor>Irmã María Eufemia Goycoechea</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720123500 -0300" stop="20190720152000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Quando Explode A Vingança</title>
+    <desc lang="pt">O criminoso Juan Miranda convence o especialista em explosivos Sean Mallory a roubar um banco. Quando abrem o cofre do local, eles libertam um grupo de presos políticos que ficavam detidos ali(n)</desc>
+    <credits>
+      <director>Sergio Leone</director>
+      <actor>James Coburn</actor>
+      <actor>Rod Steiger</actor>
+      <actor>Romolo Valli</actor>
+    </credits>
+    <date>1971</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720152000 -0300" stop="20190720165000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Paranoid Park</title>
+    <desc lang="pt">Alex vai para o Paranoid Park. Logo após, é noticiado um acidente no local e um detetive interroga o garoto. Enquanto lida com as suspeitas, Alex também enfrenta o divórcio dos pais e as exigências de sua namorada(n)</desc>
+    <credits>
+      <director>Gus Van Sant</director>
+      <actor>Gabe Nevins</actor>
+      <actor>Daniel Liu</actor>
+      <actor>Jake Miller</actor>
+      <actor>Taylor Momsen</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720165000 -0300" stop="20190720182500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Luzes Da Cidade</title>
+    <desc lang="pt">O Vagabundo se apaixona por uma bela florista cega. Sabendo que ela e sua avó estão prestes a ser despejadas da casa onde moram, ele cria inúmeras formas de ganhar dinheiro para ajudá-las(n)</desc>
+    <credits>
+      <director>Charles Chaplin</director>
+      <actor>Charles Chaplin</actor>
+      <actor>Harry Myers</actor>
+      <actor>Virginia Cherrill</actor>
+    </credits>
+    <date>1931</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720182500 -0300" stop="20190720201000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Era O Hotel Cambridge</title>
+    <desc lang="pt">Um grupo de sem-tetos ocupa o prédio onde funcionava o Hotel Cambridge no centro de São Paulo. Entre eles, refugiados recém-chegados ao Brasil(n)</desc>
+    <credits>
+      <director>Eliane Caffé</director>
+      <actor>Carmen Silva</actor>
+      <actor>Isam Ahmad Issa</actor>
+      <actor>José Dumont</actor>
+      <actor>Suely Franco</actor>
+      <actor>Thaíssa Carvalho</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720201000 -0300" stop="20190720220000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Jovens, Loucos &amp; Rebeldes</title>
+    <desc lang="pt">Em 1976, no Texas, adolescentes aproveitam o último dia de aula do ano. Conforme a tradição, os veteranos promovem uma série de(n)</desc>
+    <credits>
+      <director>Richard Linklater</director>
+      <actor>Jason London</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Wiley Wiggins</actor>
+    </credits>
+    <date>1993</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720220000 -0300" stop="20190720235500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Justiça Sob Tutela</title>
+    <desc lang="pt">Artie Lewis é um policial muito ético que acaba de perder seu parceiro de trabalho durante um tiroteio. Ele resolve então adotar as filhas do amigo, mas o Serviço de Adoção cria empecilhos(n)</desc>
+    <credits>
+      <director>Heywood Gould</director>
+      <actor>Michael Keaton</actor>
+      <actor>Anthony Lapaglia</actor>
+      <actor>Benjamin Bratt</actor>
+      <actor>Rene Russo</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720235500 -0300" stop="20190721015500 -0300" channel="TELECINE CULT">
+    <title lang="pt">A Mão Que Balança O Berço</title>
+    <desc lang="pt">Claire e Michael Bartel enfrentam dificuldades em achar a babá ideal para cuidar da filha. Quando conhecem Peyton, uma mulher inteligente e encantadora, eles acreditam que seus problemas chegaram ao fim(n)</desc>
+    <credits>
+      <director>Curtis Hanson</director>
+      <actor>Annabella Sciorra</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Matt McCoy</actor>
+      <actor>Rebecca De Mornay</actor>
+    </credits>
+    <date>1992</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719001000 -0300" stop="20190719024000 -0300" channel="HBO">
+    <title lang="pt">Covil de Ladrões</title>
+    <desc lang="pt">Nick (Gerard Butler) é o xerife do município de Los Angeles que vem acompanhando há algum tempo um muito bem-sucedido grupo de ladrões de banco(n)</desc>
+    <credits>
+      <director>Christian Gudegast</director>
+      <actor>Gerard Butler</actor>
+      <actor>Pablo Schreiber</actor>
+      <actor>O'Shea Jackson Jr</actor>
+      <actor>50 Cent</actor>
+      <actor>Maurice Compte</actor>
+      <actor>Brian Van Holt</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719024000 -0300" stop="20190719042000 -0300" channel="HBO">
+    <title lang="pt">No Coração do Ouro: O Escândalo da Seleção America</title>
+    <desc lang="pt">Em 2017 o mundo esportivo foi abalado pelos devastadores relatos de abusos sexuais cometidos ao longo de três décadas por Larry Nassar, osteopata do time de ginástica artística dos EUA(n)</desc>
+    <credits>
+      <director>Erin Lee Carr</director>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719042000 -0300" stop="20190719063000 -0300" channel="HBO">
+    <title lang="pt">As Confissões de Schmidt</title>
+    <desc lang="pt">Enfrentando uma fase complicada, Schmidt compartilha sensações e planos com garoto carente da Tanzânia por meio de longas e até engraçadas cartas(n)</desc>
+    <credits>
+      <director>Alexander Payne</director>
+      <actor>Jack Nicholson</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Hope Davis</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>June Squibb</actor>
+      <actor>Howard Hesseman</actor>
+      <actor>Len Cariou</actor>
+      <actor>James J. Crawley</actor>
+      <actor>Melissa Hanna</actor>
+      <actor>Steve Heller</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719063000 -0300" stop="20190719075500 -0300" channel="HBO">
+    <title lang="pt">A Princesa Encantada: Um Mistério Real</title>
+    <desc lang="pt">Quando um homem vestido de preto começa a deixar a marca de um(n)</desc>
+    <credits>
+      <director>Richard Rich</director>
+      <actor>Vozes de Grant Durazzo</actor>
+      <actor>Kellen Goff</actor>
+      <actor>Nina Herzog</actor>
+      <actor>Yuri Lowenthal</actor>
+      <actor>Jennifer Miller</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719075500 -0300" stop="20190719101000 -0300" channel="HBO">
+    <title lang="pt">Espanglês</title>
+    <desc lang="pt">Flor muda para os EUA. Após seis anos convivendo só com latinos, ela não sabe nada de inglês. Quando vai trabalhar como doméstica para uma rica família americana, tem de superar mais do que as barreiras do idioma(n)</desc>
+    <credits>
+      <director>James L. Brooks</director>
+      <actor>Adam Sandler</actor>
+      <actor>Téa Leoni</actor>
+      <actor>Paz Vega</actor>
+      <actor>Cloris Leachman</actor>
+      <actor>Shelbie Bruce</actor>
+      <actor>Sarah Steele</actor>
+      <actor>Ian Hyland</actor>
+      <actor>Victoria Luna</actor>
+      <actor>Ricardo Molina</actor>
+      <actor>Brenda Canela</actor>
+      <actor>Eddy Martin</actor>
+      <actor>Jamie Kaler</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719101000 -0300" stop="20190719115500 -0300" channel="HBO">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Crescer e amadurecer nem sempre andam de mãos dadas. Especialmente para cinco amigos competitivos que têm participado do mesmo jogo de pega-pega por 30 anos consecutivos, arriscando seus empregos, relacionamentos e saúde(n)</desc>
+    <credits>
+      <director>Jeff Tomsic</director>
+      <actor>Ed Helms</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Annabelle Wallis</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Nora Dunn</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Leslie Bibb</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719115500 -0300" stop="20190719122500 -0300" channel="HBO">
+    <title lang="pt">Especial Pico da Neblina - Os Segredos Por Trás da Série</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719122500 -0300" stop="20190719140500 -0300" channel="HBO">
+    <title lang="pt">As Loucuras de Dick e Jane</title>
+    <desc lang="pt">A empresa onde Dick trabalha é envolvida num grande escândalo. Ele e sua esposa Jane estão a ponto de perder tudo e, para evitar isso, têm de voltar ao mundo do crime. Juntos farão uma divertida vingança(n)</desc>
+    <credits>
+      <director>Dean Parisot</director>
+      <actor>Alec Baldwin</actor>
+      <actor>Jim Carrey</actor>
+      <actor>Téa Leoni</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>Angie Harmon</actor>
+      <actor>John Michael Higgins</actor>
+      <actor>Gloria Garayua</actor>
+      <actor>Stacey Travis</actor>
+      <actor>Timm Sharp</actor>
+      <actor>David Herman</actor>
+      <actor>Dempsey Pappion</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719140500 -0300" stop="20190719164000 -0300" channel="HBO">
+    <title lang="pt">A Origem</title>
+    <desc lang="pt">Dom Cobb é um habilidoso ladrão, o melhor na perigosa arte da extração, o roubo de segredos valiosos das profundezas do inconsciente durante o sono com sonhos, quando a mente está mais vulnerável(n)</desc>
+    <credits>
+      <director>Christopher Nolan</director>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>Ellen Page</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Joseph Gordon-Levitt</actor>
+      <actor>Ken Watanabe</actor>
+      <actor>Dileep Rao</actor>
+      <actor>Cillian Murphy</actor>
+      <actor>Tom Berenger</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719164000 -0300" stop="20190719175500 -0300" channel="HBO">
+    <title lang="pt">Uma Nação Estressada</title>
+    <desc lang="pt">Nos anos 60, os Estados Unidos tinham uma das maiores expectativas de vida do mundo. Hoje, apesar de gastar mais com assistência médica do que qualquer outro país, está muito abaixo de outras nações desenvolvidas(n)</desc>
+    <credits>
+      <director>Marc Levin</director>
+      <actor>Sanjay Gupta</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719175500 -0300" stop="20190719194000 -0300" channel="HBO">
+    <title lang="pt">A Trilha</title>
+    <desc lang="pt">Cliff e Cydney são recém casados que decidem passar sua lua de mel no Havaí. Mas logo encontram outros casais e ficam sabendo de uma série de assassinatos em outra ilha. Logo, o suspeito se apoderará de todos(n)</desc>
+    <credits>
+      <director>David Twohy</director>
+      <actor>Timothy Olyphant</actor>
+      <actor>Milla Jovovich</actor>
+      <actor>Kiele Sanchez</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Marley Shelton</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Anthony Ruivivar</actor>
+      <actor>Peter Navy Tuiasosopo</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719194000 -0300" stop="20190719213000 -0300" channel="HBO">
+    <title lang="pt">Sobrenatural: A Última Chave</title>
+    <desc lang="pt">Elise Rainier é chamada para resolver o caso de uma assombração no Novo México(n)</desc>
+    <credits>
+      <director>Adam Robitel</director>
+      <actor>Lin Shaye</actor>
+      <actor>Leigh Whannell</actor>
+      <actor>Angus Sampson</actor>
+      <actor>Kirk Acevedo</actor>
+      <actor>Caitlin Gerard</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719213000 -0300" stop="20190719220000 -0300" channel="HBO">
+    <title lang="pt">Divorce</title>
+    <desc lang="pt">Uma mulher começa a repensar sua vida e seu casamento(n)</desc>
+    <credits>
+      <director>Ryan Case</director>
+      <actor>Sarah Jessica Parker</actor>
+      <actor>Thomas Haden Church</actor>
+      <actor>Molly Shannon</actor>
+      <actor>Talia Balsam</actor>
+      <actor>Tracy Letts</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719220000 -0300" stop="20190719230000 -0300" channel="HBO">
+    <title lang="pt">Years And Years</title>
+    <desc lang="pt">Enquanto a Grã-Bretanha é abalada por instáveis avanços políticos, econômicos e tecnológicos, membros da família Lyons convergem em uma noite crucial em 2019. Nos próximos 15 anos, as reviravoltas de suas vidas cotidianas são expl(n)</desc>
+    <credits>
+      <director>Simon Cellan Jones</director>
+      <actor>Emma Thompson</actor>
+      <actor>Jade Alleyne</actor>
+      <actor>Maxim Baldry</actor>
+      <actor>Sharon Duncan-Brewster</actor>
+      <actor>Jessica Hynes</actor>
+      <actor>Rory Kinnear</actor>
+      <actor>Ruth Madeley</actor>
+      <actor>Glen McReady</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719230000 -0300" stop="20190720010500 -0300" channel="HBO">
+    <title lang="pt">Te Peguei</title>
+    <desc lang="pt">Crescer e amadurecer nem sempre andam de mãos dadas. Especialmente para cinco amigos competitivos que têm participado do mesmo jogo de pega-pega por 30 anos consecutivos, arriscando seus empregos, relacionamentos e saúde(n)</desc>
+    <credits>
+      <director>Jeff Tomsic</director>
+      <actor>Ed Helms</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Annabelle Wallis</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Nora Dunn</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Leslie Bibb</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720010500 -0300" stop="20190720024000 -0300" channel="HBO">
+    <title lang="pt">As Loucuras de Dick e Jane</title>
+    <desc lang="pt">A empresa onde Dick trabalha é envolvida num grande escândalo. Ele e sua esposa Jane estão a ponto de perder tudo e, para evitar isso, têm de voltar ao mundo do crime. Juntos farão uma divertida vingança(n)</desc>
+    <credits>
+      <director>Dean Parisot</director>
+      <actor>Alec Baldwin</actor>
+      <actor>Jim Carrey</actor>
+      <actor>Téa Leoni</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>Angie Harmon</actor>
+      <actor>John Michael Higgins</actor>
+      <actor>Gloria Garayua</actor>
+      <actor>Stacey Travis</actor>
+      <actor>Timm Sharp</actor>
+      <actor>David Herman</actor>
+      <actor>Dempsey Pappion</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720024000 -0300" stop="20190720041000 -0300" channel="HBO">
+    <title lang="pt">A Hora do Pesadelo 6 - Pesadelo Final - A Morte de Freddy</title>
+    <desc lang="pt">Freddy Krueger acabou com a vida de todas as crianças da Rua Elm, mas ele não está satisfeito. Agora vai até sua filha para matar o último adolescente sobrevivente, mas ela se dá conta dos poderes demoníacos do pai(n)</desc>
+    <credits>
+      <director>Rachel Talalay</director>
+      <actor>Robert Englund</actor>
+      <actor>Lisa Zane</actor>
+      <actor>Shon Greenblatt</actor>
+      <actor>Lezlie Deane</actor>
+      <actor>Ricky Dean Logan</actor>
+      <actor>Breckin Meyer</actor>
+      <actor>Yaphet Kotto</actor>
+      <actor>Roseanne</actor>
+      <actor>Tom Arnold</actor>
+      <actor>Elinor Donahue</actor>
+      <actor>Johnny Depp</actor>
+      <actor>Cassandra Rachel Friel</actor>
+      <actor>David Dunard</actor>
+      <actor>Marilyn Rockafellow</actor>
+      <actor>Virginia Peters</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720041000 -0300" stop="20190720055500 -0300" channel="HBO">
+    <title lang="pt">Gladiator, O Desafio</title>
+    <desc lang="pt">Adolescente de classe média, Tommy Riley, muda-se para o lado perigoso de Chicago e ingressa no submundo do boxe para pagar a dívida de seu pai. A violência e a amizade o fazem refletir sobre o modo como vem ganhando a vida(n)</desc>
+    <credits>
+      <director>Rowdy Herrington</director>
+      <actor>Cuba Gooding Jr</actor>
+      <actor>James Marshall</actor>
+      <actor>Robert Loggia</actor>
+      <actor>Ossie Davis</actor>
+      <actor>Brian Dennehy</actor>
+      <actor>T. E. Russell</actor>
+      <actor>Jon Seda</actor>
+      <actor>Dwain A. Perry</actor>
+      <actor>Cara Buono</actor>
+      <actor>Raul Salinas</actor>
+    </credits>
+    <date>1992</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720055500 -0300" stop="20190720074000 -0300" channel="HBO">
+    <title lang="pt">Closer - Perto Demais</title>
+    <desc lang="pt">Uma fotógrafa se casa com um homem, mas mantém um caso secreto com outro. Enquanto isso seu amante usa uma stripper como musa inspiradora para tentar conquistar o amor dela(n)</desc>
+    <credits>
+      <director>Mike Nichols</director>
+      <actor>Julia Roberts</actor>
+      <actor>Jude Law</actor>
+      <actor>Natalie Portman</actor>
+      <actor>Clive Owen</actor>
+      <actor>Nick Hobbs</actor>
+      <actor>Collin Stington</actor>
+      <actor>Steve Benham</actor>
+      <actor>Elizabeth Bower</actor>
+      <actor>Jaclynn Tiffany Brown</actor>
+      <actor>Abdul Popoola</actor>
+      <actor>Bret Yount</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720074000 -0300" stop="20190720103500 -0300" channel="HBO">
+    <title lang="pt">O Aviador</title>
+    <desc lang="pt">Cinebiografia do diretor Howard Hughes, cobrindo sua carreria entre os anos 20 e 40, movida não apenas pelos filmes mas também por sua grande paixão: a aviação(n)</desc>
+    <credits>
+      <director>Martin Scorsese</director>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Kate Beckinsale</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Alan Alda</actor>
+      <actor>Ian Holm</actor>
+      <actor>Danny Huston</actor>
+      <actor>Gwen Stefani</actor>
+      <actor>Jude Law</actor>
+      <actor>Adam Scott</actor>
+      <actor>Matt Ross</actor>
+      <actor>Kelli Garner</actor>
+      <actor>Frances Conroy</actor>
+      <actor>Brent Spiner</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720103500 -0300" stop="20190720123000 -0300" channel="HBO">
+    <title lang="pt">Venom</title>
+    <desc lang="pt">Quando o jornalista Eddie Brock entra em contato com um misterioso material alienígena, ele se transforma em um anti-herói conhecido como Venom(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Tom Hardy</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Riz Ahmed</actor>
+      <actor>Scott Haze</actor>
+      <actor>Reid Scott</actor>
+      <actor>Jenny Slate</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720123000 -0300" stop="20190720133000 -0300" channel="HBO">
+    <title lang="pt">O Jardim de Bronze</title>
+    <desc lang="pt">Acompanha o arquiteto argentino Fabián Danubio e sua luta para reencontrar sua filha, que desapareceu de forma inexplicável e sem deixar rastro(n)</desc>
+    <credits>
+      <actor>Norma Aleandro</actor>
+      <actor>Daniel Fanego</actor>
+      <actor>Joaquín Furriel</actor>
+      <actor>Luis Luque</actor>
+      <actor>Mario Pasik</actor>
+      <actor>Julieta Zylberberg</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720133000 -0300" stop="20190720154500 -0300" channel="HBO">
+    <title lang="pt">12 Heróis</title>
+    <desc lang="pt">Inspiradora história de 12 soldados das forças especiais enviados para o Afeganistão após o ataque de 11 de setembro, que, sob o comando de um novo capitão, uniram forças com a Aliança do Norte afegã(n)</desc>
+    <credits>
+      <director>Nicolai Fuglsig</director>
+      <actor>Chris Hemsworth</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Michael Peña</actor>
+      <actor>Navid Negahban</actor>
+      <actor>Trevante Rhodes</actor>
+      <actor>Elsa Pataky</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720154500 -0300" stop="20190720173000 -0300" channel="HBO">
+    <title lang="pt">Invasores</title>
+    <desc lang="pt">Uma misteriosa epidemia vem alterando o comportamento dos humanos. Uma psiquiatra de Washington descobre que essa epidemia é de origem extraterrestre, e que precisa proteger o filho, que poderá ser vital para impedir uma invasão(n)</desc>
+    <credits>
+      <director>Oliver Hirschbiegel</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Daniel Craig</actor>
+      <actor>Jeremy Northam</actor>
+      <actor>Jackson Bond</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Veronica Cartwright</actor>
+      <actor>Josef Sommer</actor>
+      <actor>Eric Benjamin</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720173000 -0300" stop="20190720180000 -0300" channel="HBO">
+    <title lang="pt">Los Espookys</title>
+    <desc lang="pt">Los Espookys aceitam a oferta de uma pesquisadora que lhes encarrega de criar amostras alienígenas para sua apresentação para o governo. Ursula e Tati recebem uma visita ameaçadora do CEO da Hierbalite, Mark Stevens(n)</desc>
+    <credits>
+      <director>Fernando Frias</director>
+      <actor>Fred Armisen</actor>
+      <actor>Cassandra Ciangherotti</actor>
+      <actor>Ana Fabrega</actor>
+      <actor>José Pablo Minor</actor>
+      <actor>Julio Torres</actor>
+      <actor>Bernardo Velasco</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720180000 -0300" stop="20190720190500 -0300" channel="HBO">
+    <title lang="pt">O Negro no Futebol Brasileiro</title>
+    <desc lang="pt">Além do Rei do Futebol, muitos craques negros marcaram a história do esporte. Apesar disso, manifestações racistas ocorreram recentemente em nossos estádios(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720190500 -0300" stop="20190720200500 -0300" channel="HBO">
+    <title lang="pt">Milton Nascimento: Intimidade e Poesia</title>
+    <desc lang="pt">A turnê se aproxima do fim. Apesar do cansaço das viagens, os shows estão mais potentes em Los Angeles e San Francisco(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720200500 -0300" stop="20190720220000 -0300" channel="HBO">
+    <title lang="pt">Venom</title>
+    <desc lang="pt">Quando o jornalista Eddie Brock entra em contato com um misterioso material alienígena, ele se transforma em um anti-herói conhecido como Venom(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Tom Hardy</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Riz Ahmed</actor>
+      <actor>Scott Haze</actor>
+      <actor>Reid Scott</actor>
+      <actor>Jenny Slate</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720220000 -0300" stop="20190721002000 -0300" channel="HBO">
+    <title lang="pt">Covil de Ladrões</title>
+    <desc lang="pt">Nick (Gerard Butler) é o xerife do município de Los Angeles que vem acompanhando há algum tempo um muito bem-sucedido grupo de ladrões de banco(n)</desc>
+    <credits>
+      <director>Christian Gudegast</director>
+      <actor>Gerard Butler</actor>
+      <actor>Pablo Schreiber</actor>
+      <actor>O'Shea Jackson Jr</actor>
+      <actor>50 Cent</actor>
+      <actor>Maurice Compte</actor>
+      <actor>Brian Van Holt</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719010500 -0300" stop="20190719024000 -0300" channel="HBO 2">
+    <title lang="pt">As Loucuras de Dick e Jane</title>
+    <desc lang="pt">A empresa onde Dick trabalha é envolvida num grande escândalo. Ele e sua esposa Jane estão a ponto de perder tudo e, para evitar isso, têm de voltar ao mundo do crime. Juntos farão uma divertida vingança(n)</desc>
+    <credits>
+      <director>Dean Parisot</director>
+      <actor>Alec Baldwin</actor>
+      <actor>Jim Carrey</actor>
+      <actor>Téa Leoni</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>Angie Harmon</actor>
+      <actor>John Michael Higgins</actor>
+      <actor>Gloria Garayua</actor>
+      <actor>Stacey Travis</actor>
+      <actor>Timm Sharp</actor>
+      <actor>David Herman</actor>
+      <actor>Dempsey Pappion</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719024000 -0300" stop="20190719041000 -0300" channel="HBO 2">
+    <title lang="pt">A Hora do Pesadelo 6 - Pesadelo Final - A Morte de Freddy</title>
+    <desc lang="pt">Freddy Krueger acabou com a vida de todas as crianças da Rua Elm, mas ele não está satisfeito. Agora vai até sua filha para matar o último adolescente sobrevivente, mas ela se dá conta dos poderes demoníacos do pai(n)</desc>
+    <credits>
+      <director>Rachel Talalay</director>
+      <actor>Robert Englund</actor>
+      <actor>Lisa Zane</actor>
+      <actor>Shon Greenblatt</actor>
+      <actor>Lezlie Deane</actor>
+      <actor>Ricky Dean Logan</actor>
+      <actor>Breckin Meyer</actor>
+      <actor>Yaphet Kotto</actor>
+      <actor>Roseanne</actor>
+      <actor>Tom Arnold</actor>
+      <actor>Elinor Donahue</actor>
+      <actor>Johnny Depp</actor>
+      <actor>Cassandra Rachel Friel</actor>
+      <actor>David Dunard</actor>
+      <actor>Marilyn Rockafellow</actor>
+      <actor>Virginia Peters</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719041000 -0300" stop="20190719055500 -0300" channel="HBO 2">
+    <title lang="pt">Gladiator, O Desafio</title>
+    <desc lang="pt">Adolescente de classe média, Tommy Riley, muda-se para o lado perigoso de Chicago e ingressa no submundo do boxe para pagar a dívida de seu pai. A violência e a amizade o fazem refletir sobre o modo como vem ganhando a vida(n)</desc>
+    <credits>
+      <director>Rowdy Herrington</director>
+      <actor>Cuba Gooding Jr</actor>
+      <actor>James Marshall</actor>
+      <actor>Robert Loggia</actor>
+      <actor>Ossie Davis</actor>
+      <actor>Brian Dennehy</actor>
+      <actor>T. E. Russell</actor>
+      <actor>Jon Seda</actor>
+      <actor>Dwain A. Perry</actor>
+      <actor>Cara Buono</actor>
+      <actor>Raul Salinas</actor>
+    </credits>
+    <date>1992</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719055500 -0300" stop="20190719074000 -0300" channel="HBO 2">
+    <title lang="pt">Closer - Perto Demais</title>
+    <desc lang="pt">Uma fotógrafa se casa com um homem, mas mantém um caso secreto com outro. Enquanto isso seu amante usa uma stripper como musa inspiradora para tentar conquistar o amor dela(n)</desc>
+    <credits>
+      <director>Mike Nichols</director>
+      <actor>Julia Roberts</actor>
+      <actor>Jude Law</actor>
+      <actor>Natalie Portman</actor>
+      <actor>Clive Owen</actor>
+      <actor>Nick Hobbs</actor>
+      <actor>Collin Stington</actor>
+      <actor>Steve Benham</actor>
+      <actor>Elizabeth Bower</actor>
+      <actor>Jaclynn Tiffany Brown</actor>
+      <actor>Abdul Popoola</actor>
+      <actor>Bret Yount</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719074000 -0300" stop="20190719103500 -0300" channel="HBO 2">
+    <title lang="pt">O Aviador</title>
+    <desc lang="pt">Cinebiografia do diretor Howard Hughes, cobrindo sua carreria entre os anos 20 e 40, movida não apenas pelos filmes mas também por sua grande paixão: a aviação(n)</desc>
+    <credits>
+      <director>Martin Scorsese</director>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Kate Beckinsale</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Alan Alda</actor>
+      <actor>Ian Holm</actor>
+      <actor>Danny Huston</actor>
+      <actor>Gwen Stefani</actor>
+      <actor>Jude Law</actor>
+      <actor>Adam Scott</actor>
+      <actor>Matt Ross</actor>
+      <actor>Kelli Garner</actor>
+      <actor>Frances Conroy</actor>
+      <actor>Brent Spiner</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719103500 -0300" stop="20190719123000 -0300" channel="HBO 2">
+    <title lang="pt">Venom</title>
+    <desc lang="pt">Quando o jornalista Eddie Brock entra em contato com um misterioso material alienígena, ele se transforma em um anti-herói conhecido como Venom(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Tom Hardy</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Riz Ahmed</actor>
+      <actor>Scott Haze</actor>
+      <actor>Reid Scott</actor>
+      <actor>Jenny Slate</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719123000 -0300" stop="20190719133000 -0300" channel="HBO 2">
+    <title lang="pt">O Jardim de Bronze</title>
+    <desc lang="pt">Acompanha o arquiteto argentino Fabián Danubio e sua luta para reencontrar sua filha, que desapareceu de forma inexplicável e sem deixar rastro(n)</desc>
+    <credits>
+      <actor>Norma Aleandro</actor>
+      <actor>Daniel Fanego</actor>
+      <actor>Joaquín Furriel</actor>
+      <actor>Luis Luque</actor>
+      <actor>Mario Pasik</actor>
+      <actor>Julieta Zylberberg</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719133000 -0300" stop="20190719154500 -0300" channel="HBO 2">
+    <title lang="pt">12 Heróis</title>
+    <desc lang="pt">Inspiradora história de 12 soldados das forças especiais enviados para o Afeganistão após o ataque de 11 de setembro, que, sob o comando de um novo capitão, uniram forças com a Aliança do Norte afegã(n)</desc>
+    <credits>
+      <director>Nicolai Fuglsig</director>
+      <actor>Chris Hemsworth</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Michael Peña</actor>
+      <actor>Navid Negahban</actor>
+      <actor>Trevante Rhodes</actor>
+      <actor>Elsa Pataky</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719154500 -0300" stop="20190719173000 -0300" channel="HBO 2">
+    <title lang="pt">Invasores</title>
+    <desc lang="pt">Uma misteriosa epidemia vem alterando o comportamento dos humanos. Uma psiquiatra de Washington descobre que essa epidemia é de origem extraterrestre, e que precisa proteger o filho, que poderá ser vital para impedir uma invasão(n)</desc>
+    <credits>
+      <director>Oliver Hirschbiegel</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Daniel Craig</actor>
+      <actor>Jeremy Northam</actor>
+      <actor>Jackson Bond</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Veronica Cartwright</actor>
+      <actor>Josef Sommer</actor>
+      <actor>Eric Benjamin</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719173000 -0300" stop="20190719180000 -0300" channel="HBO 2">
+    <title lang="pt">Los Espookys</title>
+    <desc lang="pt">Los Espookys aceitam a oferta de uma pesquisadora que lhes encarrega de criar amostras alienígenas para sua apresentação para o governo. Ursula e Tati recebem uma visita ameaçadora do CEO da Hierbalite, Mark Stevens(n)</desc>
+    <credits>
+      <director>Fernando Frias</director>
+      <actor>Fred Armisen</actor>
+      <actor>Cassandra Ciangherotti</actor>
+      <actor>Ana Fabrega</actor>
+      <actor>José Pablo Minor</actor>
+      <actor>Julio Torres</actor>
+      <actor>Bernardo Velasco</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719180000 -0300" stop="20190719190500 -0300" channel="HBO 2">
+    <title lang="pt">O Negro no Futebol Brasileiro</title>
+    <desc lang="pt">Além do Rei do Futebol, muitos craques negros marcaram a história do esporte. Apesar disso, manifestações racistas ocorreram recentemente em nossos estádios(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719190500 -0300" stop="20190719200500 -0300" channel="HBO 2">
+    <title lang="pt">Milton Nascimento: Intimidade e Poesia</title>
+    <desc lang="pt">A turnê se aproxima do fim. Apesar do cansaço das viagens, os shows estão mais potentes em Los Angeles e San Francisco(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719200500 -0300" stop="20190719220000 -0300" channel="HBO 2">
+    <title lang="pt">Venom</title>
+    <desc lang="pt">Quando o jornalista Eddie Brock entra em contato com um misterioso material alienígena, ele se transforma em um anti-herói conhecido como Venom(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Tom Hardy</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Riz Ahmed</actor>
+      <actor>Scott Haze</actor>
+      <actor>Reid Scott</actor>
+      <actor>Jenny Slate</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719220000 -0300" stop="20190720002500 -0300" channel="HBO 2">
+    <title lang="pt">Covil de Ladrões</title>
+    <desc lang="pt">Nick (Gerard Butler) é o xerife do município de Los Angeles que vem acompanhando há algum tempo um muito bem-sucedido grupo de ladrões de banco(n)</desc>
+    <credits>
+      <director>Christian Gudegast</director>
+      <actor>Gerard Butler</actor>
+      <actor>Pablo Schreiber</actor>
+      <actor>O'Shea Jackson Jr</actor>
+      <actor>50 Cent</actor>
+      <actor>Maurice Compte</actor>
+      <actor>Brian Van Holt</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720002500 -0300" stop="20190720013000 -0300" channel="HBO 2">
+    <title lang="pt">Big Little Lies</title>
+    <desc lang="pt">Celeste é surpreendida por Mary Louise. Renata descobre que os erros de Gordon são mais que financeiros. Bonnie contempla uma solução para o sofrimento de sua mãe e sua própria culpa(n)</desc>
+    <credits>
+      <director>Andrea Arnold</director>
+      <actor>Kathryn Newton</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Shailene Woodley</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Zoë Kravitz</actor>
+      <actor>Robin Weigert</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720013000 -0300" stop="20190720023500 -0300" channel="HBO 2">
+    <title lang="pt">Euphoria</title>
+    <desc lang="pt">Um grupo de estudantes do ensino médio lida com diferentes situações típicas da idade como drogas, sexo, busca pela identidade, traumas, comportamento nas redes sociais e amizade(n)</desc>
+    <credits>
+      <director>Jennifer Morrison</director>
+      <actor>Zendaya</actor>
+      <actor>Austin Abrams</actor>
+      <actor>Alexa Demie</actor>
+      <actor>Jacob Elordi</actor>
+      <actor>Nika King</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190720023500 -0300" stop="20190720034000 -0300" channel="HBO 2">
+    <title lang="pt">O Jardim de Bronze</title>
+    <desc lang="pt">Acompanha o arquiteto argentino Fabián Danubio e sua luta para reencontrar sua filha, que desapareceu de forma inexplicável e sem deixar rastro(n)</desc>
+    <credits>
+      <actor>Norma Aleandro</actor>
+      <actor>Daniel Fanego</actor>
+      <actor>Joaquín Furriel</actor>
+      <actor>Luis Luque</actor>
+      <actor>Mario Pasik</actor>
+      <actor>Julieta Zylberberg</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720034000 -0300" stop="20190720055500 -0300" channel="HBO 2">
+    <title lang="pt">Terra Fria</title>
+    <desc lang="pt">A inspiradora história de uma mãe solteira que convence suas colegas de trabalho a lutarem contra o tratamento injusto que recebem de uma mineradora(n)</desc>
+    <credits>
+      <director>Niki Caro</director>
+      <actor>Charlize Theron</actor>
+      <actor>Frances McDormand</actor>
+      <actor>Sean Bean</actor>
+      <actor>Sissy Spacek</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Michelle Monaghan</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720055500 -0300" stop="20190720074500 -0300" channel="HBO 2">
+    <title lang="pt">O Máskara</title>
+    <desc lang="pt">Um rapaz tímido se transforma num irresistível conquistador após descobrir uma antiga máscara viking(n)</desc>
+    <credits>
+      <director>Chuck Russell</director>
+      <actor>Jim Carrey</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Peter Riegert</actor>
+      <actor>Peter Greene</actor>
+      <actor>Amy Yasbeck</actor>
+      <actor>Richard Jeni</actor>
+      <actor>Orestes Matacen</actor>
+      <actor>Nancy Fish</actor>
+      <actor>Johnny Williams</actor>
+      <actor>Joseph Alfieri</actor>
+    </credits>
+    <date>1994</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720074500 -0300" stop="20190720100500 -0300" channel="HBO 2">
+    <title lang="pt">Homens de Coragem</title>
+    <desc lang="pt">Um incêndio gigantesco na região do Arizona levou a um verdadeiro combate com os mais experientes bombeiros da região(n)</desc>
+    <credits>
+      <director>Joseph Kosinski</director>
+      <actor>Josh Brolin</actor>
+      <actor>Miles Teller</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>James Badge Dale</actor>
+      <actor>Taylor Kitsch</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720100500 -0300" stop="20190720120500 -0300" channel="HBO 2">
+    <title lang="pt">Deadwood</title>
+    <desc lang="pt">Continuando a história iniciada na série da HBO vencedora do Emmy, os personagens de Deadwood se reúnem após 10 anos para celebrar a formalização de Dakota do Sul como um estado(n)</desc>
+    <credits>
+      <director>Daniel Minahan</director>
+      <actor>Timothy Olyphant</actor>
+      <actor>Ian McShane</actor>
+      <actor>Kim Dickens</actor>
+      <actor>Brad Dourif</actor>
+      <actor>Robin Weigert</actor>
+      <actor>Molly Parker</actor>
+      <actor>Anna Gunn</actor>
+      <actor>Paula Malcomson</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190720120500 -0300" stop="20190720135500 -0300" channel="HBO 2">
+    <title lang="pt">Sobrenatural: A Última Chave</title>
+    <desc lang="pt">Elise Rainier é chamada para resolver o caso de uma assombração no Novo México(n)</desc>
+    <credits>
+      <director>Adam Robitel</director>
+      <actor>Lin Shaye</actor>
+      <actor>Leigh Whannell</actor>
+      <actor>Angus Sampson</actor>
+      <actor>Kirk Acevedo</actor>
+      <actor>Caitlin Gerard</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720135500 -0300" stop="20190720143000 -0300" channel="HBO 2">
+    <title lang="pt">Los Espookys</title>
+    <desc lang="pt">Los Espookys aceitam a oferta de uma pesquisadora que lhes encarrega de criar amostras alienígenas para sua apresentação para o governo. Ursula e Tati recebem uma visita ameaçadora do CEO da Hierbalite, Mark Stevens(n)</desc>
+    <credits>
+      <director>Fernando Frias</director>
+      <actor>Fred Armisen</actor>
+      <actor>Cassandra Ciangherotti</actor>
+      <actor>Ana Fabrega</actor>
+      <actor>José Pablo Minor</actor>
+      <actor>Julio Torres</actor>
+      <actor>Bernardo Velasco</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720143000 -0300" stop="20190720163500 -0300" channel="HBO 2">
+    <title lang="pt">Megatubarão</title>
+    <desc lang="pt">Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão conhecido como Megalodon(n)</desc>
+    <credits>
+      <director>Jon Turteltaub</director>
+      <actor>Jason Statham</actor>
+      <actor>Bingbing Li</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Winston Chao</actor>
+      <actor>Shuya Sophia Cai</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720163500 -0300" stop="20190720184000 -0300" channel="HBO 2">
+    <title lang="pt">Logan Lucky: Roubo em Família</title>
+    <desc lang="pt">Após ser demitido, Jimmy Logan convida seus irmãos Clyde e Mellie para um elaborado roubo no subsolo do autódromo de Charlotte durante uma corrida da NASCAR(n)</desc>
+    <credits>
+      <director>Steven Soderbergh</director>
+      <actor>Channing Tatum</actor>
+      <actor>Adam Driver</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Riley Keough</actor>
+      <actor>Katie Holmes</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720184000 -0300" stop="20190720202000 -0300" channel="HBO 2">
+    <title lang="pt">Pedro Coelho</title>
+    <desc lang="pt">Pedro Coelho é um animal rebelde que apronta todas no quintal e até dentro da casa do Mr. McGregor, com quem trava uma dura batalha pelo carinho da amante de animais Bea(n)</desc>
+    <credits>
+      <director>Will Gluck</director>
+      <actor>Vozes de James Corden</actor>
+      <actor>Fayssal Bazzi</actor>
+      <actor>Domhnall Gleeson</actor>
+      <actor>Sia</actor>
+      <actor>Colin Moody</actor>
+      <actor>Sam Neill</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720202000 -0300" stop="20190720220000 -0300" channel="HBO 2">
+    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+    <desc lang="pt">Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Vozes de Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+      <actor>Fran Drescher</actor>
+      <actor>Steve Buscemi</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719002000 -0300" stop="20190719032500 -0300" channel="HBO PLUS">
+    <title lang="pt">O Senhor dos Anéis: As Duas Torres</title>
+    <desc lang="pt">Confira a 2a parte da trilogia épica O Senhor dos Anéis. O exército de Saruman está pronto para atacar Aragon. Frodo e Sam marcham sobre Mordor. A guerra vai começar(n)</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Elijah Wood</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Viggo Mortensen</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Sean Astin</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Billy Boyd</actor>
+      <actor>Dominic Monaghan</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Christopher Lee</actor>
+      <actor>Miranda Otto</actor>
+      <actor>Bernard Hill</actor>
+      <actor>Bruce Hopkins</actor>
+      <actor>Andy Serkis</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719032500 -0300" stop="20190719043000 -0300" channel="HBO PLUS">
+    <title lang="pt">Euphoria</title>
+    <desc lang="pt">Um grupo de estudantes do ensino médio lida com diferentes situações típicas da idade como drogas, sexo, busca pela identidade, traumas, comportamento nas redes sociais e amizade(n)</desc>
+    <credits>
+      <director>Jennifer Morrison</director>
+      <actor>Zendaya</actor>
+      <actor>Austin Abrams</actor>
+      <actor>Alexa Demie</actor>
+      <actor>Jacob Elordi</actor>
+      <actor>Nika King</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190719043000 -0300" stop="20190719071000 -0300" channel="HBO PLUS">
+    <title lang="pt">2012</title>
+    <desc lang="pt">No ano de 2012, como previu o antigo Calendário Maia, um cataclismo faz com que o mundo chegue a seu fim. No meio dos acontecimentos apocalípticos, o escritor Tony Curtis começa uma viagem desesperada para salvar sua família(n)</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>John Cusak</actor>
+      <actor>Chivetel Ejiofor</actor>
+      <actor>Amanda Peet</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Thomas McCarthy</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Danny Glover</actor>
+      <actor>Liam James</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719071000 -0300" stop="20190719084500 -0300" channel="HBO PLUS">
+    <title lang="pt">MIB - Homens de Preto 2</title>
+    <desc lang="pt">Jay, agente de organização secreta que vigia a presença de extraterrestres na Terra, procura velho parceiro para enfrentar vilã alienígena(n)</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Will Smith</actor>
+      <actor>Rosario Dawson</actor>
+      <actor>Rip Torn</actor>
+      <actor>Patrick Warburton</actor>
+      <actor>Lara Flynn Boyle</actor>
+      <actor>Johnny Knoxville</actor>
+      <actor>Tony Shalhoub</actor>
+      <actor>Chloe Sonnenfeld</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719084500 -0300" stop="20190719111000 -0300" channel="HBO PLUS">
+    <title lang="pt">Jogador Nº 1</title>
+    <desc lang="pt">Num futuro distópico, em 2044, Wade Watts, como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Tye Sheridan</actor>
+      <actor>Olivia Cooke</actor>
+      <actor>Ben Mendelsohn</actor>
+      <actor>Lena Waithe</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Simon Pegg</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719111000 -0300" stop="20190719130000 -0300" channel="HBO PLUS">
+    <title lang="pt">Buscando</title>
+    <desc lang="pt">Quando Margot Kim, de 16 anos, desaparece de repente, uma investigação policial é aberta. Mas depois de 37 horas sem uma pista, o pai da Margot, David (John Cho), decide checar o computador e as redes sociais da jovem(n)</desc>
+    <credits>
+      <director>Aneesh Chaganty</director>
+      <actor>John Cho</actor>
+      <actor>Sara Sohn</actor>
+      <actor>Michelle La</actor>
+      <actor>Joseph Lee</actor>
+      <actor>Dominic Hoffman</actor>
+      <actor>Connor McRaith</actor>
+      <actor>Debra Messing</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719130000 -0300" stop="20190719150000 -0300" channel="HBO PLUS">
+    <title lang="pt">O Estrangeiro</title>
+    <desc lang="pt">Quando a filha de Quan, um humilde empresário de Londres, morre em um atentado terrorista, seu passado oculto ressurge na forma de uma violenta busca implacável pelos responsáveis(n)</desc>
+    <credits>
+      <director>Martin Campbell</director>
+      <actor>Katie Leung</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Pierce Brosnan</actor>
+      <actor>Michael McElhatton</actor>
+      <actor>David Pearse</actor>
+      <actor>Rufus Jones</actor>
+      <actor>Rory Fleck Byrne</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719150000 -0300" stop="20190719171000 -0300" channel="HBO PLUS">
+    <title lang="pt">Sicário: Dia do Soldado</title>
+    <desc lang="pt">O oficial da CIA Matt Graver volta a contactar seu sicário de confiança, Alejandro Gillick, desta vez para sequestrar a filha caçula de um barão das drogas mexicano. Os famosos cartéis agora são considerados células terroristas(n)</desc>
+    <credits>
+      <director>Stefano Sollima</director>
+      <actor>Benicio Del Toro</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Isabela Moner</actor>
+      <actor>Jeffrey Donovan</actor>
+      <actor>Catherine Keener</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719171000 -0300" stop="20190719191000 -0300" channel="HBO PLUS">
+    <title lang="pt">O Exterminador do Futuro: A Salvação</title>
+    <desc lang="pt">Depois que grande parte da humanidade é destruída por um holocausto nuclear promovido pela poderosa rede Skynet, um grupo de sobreviventes liderados por John Connor vai lutar para impedir que as máquinas terminem o extermínio(n)</desc>
+    <credits>
+      <director>McG</director>
+      <actor>Christian Bale</actor>
+      <actor>Sam Worthington</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Moon Bloodgood</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719191000 -0300" stop="20190719220000 -0300" channel="HBO PLUS">
+    <title lang="pt">Blade Runner 2049</title>
+    <desc lang="pt">Após os problemas enfrentados com os Nexus 8, uma nova espécie de replicantes é desenvolvida. K é um blade runner que caça replicantes foragidos para a polícia de Los Angeles(n)</desc>
+    <credits>
+      <director>Denis Villeneuve</director>
+      <actor>Ryan Gosling</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Robin Wright</actor>
+      <actor>Mark Arnold</actor>
+      <actor>Vilma Szécsi</actor>
+      <actor>Ana de Armas</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719220000 -0300" stop="20190720002000 -0300" channel="HBO PLUS">
+    <title lang="pt">Jogador Nº 1</title>
+    <desc lang="pt">Num futuro distópico, em 2044, Wade Watts, como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Tye Sheridan</actor>
+      <actor>Olivia Cooke</actor>
+      <actor>Ben Mendelsohn</actor>
+      <actor>Lena Waithe</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Simon Pegg</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720002000 -0300" stop="20190720032500 -0300" channel="HBO PLUS">
+    <title lang="pt">O Senhor dos Anéis: As Duas Torres</title>
+    <desc lang="pt">Confira a 2a parte da trilogia épica O Senhor dos Anéis. O exército de Saruman está pronto para atacar Aragon. Frodo e Sam marcham sobre Mordor. A guerra vai começar(n)</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Elijah Wood</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Viggo Mortensen</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Sean Astin</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Billy Boyd</actor>
+      <actor>Dominic Monaghan</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Christopher Lee</actor>
+      <actor>Miranda Otto</actor>
+      <actor>Bernard Hill</actor>
+      <actor>Bruce Hopkins</actor>
+      <actor>Andy Serkis</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720032500 -0300" stop="20190720043000 -0300" channel="HBO PLUS">
+    <title lang="pt">Euphoria</title>
+    <desc lang="pt">Um grupo de estudantes do ensino médio lida com diferentes situações típicas da idade como drogas, sexo, busca pela identidade, traumas, comportamento nas redes sociais e amizade(n)</desc>
+    <credits>
+      <director>Jennifer Morrison</director>
+      <actor>Zendaya</actor>
+      <actor>Austin Abrams</actor>
+      <actor>Alexa Demie</actor>
+      <actor>Jacob Elordi</actor>
+      <actor>Nika King</actor>
+    </credits>
+    <date>2019</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190720043000 -0300" stop="20190720071000 -0300" channel="HBO PLUS">
+    <title lang="pt">2012</title>
+    <desc lang="pt">No ano de 2012, como previu o antigo Calendário Maia, um cataclismo faz com que o mundo chegue a seu fim. No meio dos acontecimentos apocalípticos, o escritor Tony Curtis começa uma viagem desesperada para salvar sua família(n)</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>John Cusak</actor>
+      <actor>Chivetel Ejiofor</actor>
+      <actor>Amanda Peet</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Thomas McCarthy</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Danny Glover</actor>
+      <actor>Liam James</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720071000 -0300" stop="20190720084500 -0300" channel="HBO PLUS">
+    <title lang="pt">MIB - Homens de Preto 2</title>
+    <desc lang="pt">Jay, agente de organização secreta que vigia a presença de extraterrestres na Terra, procura velho parceiro para enfrentar vilã alienígena(n)</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Will Smith</actor>
+      <actor>Rosario Dawson</actor>
+      <actor>Rip Torn</actor>
+      <actor>Patrick Warburton</actor>
+      <actor>Lara Flynn Boyle</actor>
+      <actor>Johnny Knoxville</actor>
+      <actor>Tony Shalhoub</actor>
+      <actor>Chloe Sonnenfeld</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720084500 -0300" stop="20190720111000 -0300" channel="HBO PLUS">
+    <title lang="pt">Jogador Nº 1</title>
+    <desc lang="pt">Num futuro distópico, em 2044, Wade Watts, como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Tye Sheridan</actor>
+      <actor>Olivia Cooke</actor>
+      <actor>Ben Mendelsohn</actor>
+      <actor>Lena Waithe</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Simon Pegg</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720111000 -0300" stop="20190720130000 -0300" channel="HBO PLUS">
+    <title lang="pt">Buscando</title>
+    <desc lang="pt">Quando Margot Kim, de 16 anos, desaparece de repente, uma investigação policial é aberta. Mas depois de 37 horas sem uma pista, o pai da Margot, David (John Cho), decide checar o computador e as redes sociais da jovem(n)</desc>
+    <credits>
+      <director>Aneesh Chaganty</director>
+      <actor>John Cho</actor>
+      <actor>Sara Sohn</actor>
+      <actor>Michelle La</actor>
+      <actor>Joseph Lee</actor>
+      <actor>Dominic Hoffman</actor>
+      <actor>Connor McRaith</actor>
+      <actor>Debra Messing</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720130000 -0300" stop="20190720150000 -0300" channel="HBO PLUS">
+    <title lang="pt">O Estrangeiro</title>
+    <desc lang="pt">Quando a filha de Quan, um humilde empresário de Londres, morre em um atentado terrorista, seu passado oculto ressurge na forma de uma violenta busca implacável pelos responsáveis(n)</desc>
+    <credits>
+      <director>Martin Campbell</director>
+      <actor>Katie Leung</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Pierce Brosnan</actor>
+      <actor>Michael McElhatton</actor>
+      <actor>David Pearse</actor>
+      <actor>Rufus Jones</actor>
+      <actor>Rory Fleck Byrne</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720150000 -0300" stop="20190720171000 -0300" channel="HBO PLUS">
+    <title lang="pt">Sicário: Dia do Soldado</title>
+    <desc lang="pt">O oficial da CIA Matt Graver volta a contactar seu sicário de confiança, Alejandro Gillick, desta vez para sequestrar a filha caçula de um barão das drogas mexicano. Os famosos cartéis agora são considerados células terroristas(n)</desc>
+    <credits>
+      <director>Stefano Sollima</director>
+      <actor>Benicio Del Toro</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Isabela Moner</actor>
+      <actor>Jeffrey Donovan</actor>
+      <actor>Catherine Keener</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720171000 -0300" stop="20190720191000 -0300" channel="HBO PLUS">
+    <title lang="pt">O Exterminador do Futuro: A Salvação</title>
+    <desc lang="pt">Depois que grande parte da humanidade é destruída por um holocausto nuclear promovido pela poderosa rede Skynet, um grupo de sobreviventes liderados por John Connor vai lutar para impedir que as máquinas terminem o extermínio(n)</desc>
+    <credits>
+      <director>McG</director>
+      <actor>Christian Bale</actor>
+      <actor>Sam Worthington</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Moon Bloodgood</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720191000 -0300" stop="20190720220000 -0300" channel="HBO PLUS">
+    <title lang="pt">Blade Runner 2049</title>
+    <desc lang="pt">Após os problemas enfrentados com os Nexus 8, uma nova espécie de replicantes é desenvolvida. K é um blade runner que caça replicantes foragidos para a polícia de Los Angeles(n)</desc>
+    <credits>
+      <director>Denis Villeneuve</director>
+      <actor>Ryan Gosling</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Robin Wright</actor>
+      <actor>Mark Arnold</actor>
+      <actor>Vilma Szécsi</actor>
+      <actor>Ana de Armas</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720220000 -0300" stop="20190721002500 -0300" channel="HBO PLUS">
+    <title lang="pt">Jogador Nº 1</title>
+    <desc lang="pt">Num futuro distópico, em 2044, Wade Watts, como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Tye Sheridan</actor>
+      <actor>Olivia Cooke</actor>
+      <actor>Ben Mendelsohn</actor>
+      <actor>Lena Waithe</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Simon Pegg</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719004800 -0300" stop="20190719030700 -0300" channel="HBO FAMILY">
+    <title lang="pt">Valerian e a Cidade dos Mil Planetas</title>
+    <desc lang="pt">O Major Valerian e a Sargento Laureline formam uma equipe responsável por manter a paz através da galáxia, incluindo Alpha, a cosmopolita cidade habitada por seres de mil planetas(n)</desc>
+    <credits>
+      <director>Luc Besson</director>
+      <actor>Dane DeHaan</actor>
+      <actor>Cara Delevingne</actor>
+      <actor>Clive Owen</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Herbie Hancock. Peter Hudson</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719030700 -0300" stop="20190719042500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Lego DC Comics Super Herois: Aquaman - A Fúria de Atlântida</title>
+    <desc lang="pt">Aquaman deve lutar contra inimigos no ar, em terra e nas profundezas dos Sete Mares, junto com alguma ajuda da Liga da Justiça, para salvar o dia(n)</desc>
+    <credits>
+      <director>Matt Peters</director>
+      <actor>Vozes de Jonathan Adams</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Troy Baker</actor>
+      <actor>Eric Bauza</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719042500 -0300" stop="20190719055200 -0300" channel="HBO FAMILY">
+    <title lang="pt">Dragon Ball Z: A Batalha dos Deuses</title>
+    <desc lang="pt">Bills, o deus da destruição, despertou depois de anos de letargia. Ao escutar que um super saiyajin conseguiu vencer Freezer, Bills vai atrás de Goku e de um suposto deus saiyajin(n)</desc>
+    <credits>
+      <director>Masahiro Hosoda</director>
+      <actor>Vozes de Sean Schemmel</actor>
+      <actor>Jason Douglas</actor>
+      <actor>Ian Sinclair</actor>
+      <actor>Monica Rial</actor>
+      <actor>Cynthia Cranz</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719055200 -0300" stop="20190719071800 -0300" channel="HBO FAMILY">
+    <title lang="pt">Os Jovens Titãs em Ação Nos Cinemas</title>
+    <desc lang="pt">Todos os grandes super-heróis de DC já estrelaram seus próprios filmes... Exceto pelos Jovens Titãs. Para remediar a situação, Robin e o time viajam para Hollywood para achar um diretor(n)</desc>
+    <credits>
+      <director>Aaron Horvath</director>
+      <director>Peter Rida Michail</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Will Arnett</actor>
+      <actor>Kristen Bell</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719071800 -0300" stop="20190719085500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Olha quem está Falando Agora</title>
+    <desc lang="pt">James trabalha como piloto de jato de executiva que quer fisgá-lo. Mesmo atarefada com os filhos, ela sente a ameaça no ar. Tudo às vésperas do Natal(n)</desc>
+    <credits>
+      <director>Tom Ropelewski</director>
+      <actor>John Travolta</actor>
+      <actor>Kirstie Alley</actor>
+      <actor>Lysette Anthony</actor>
+      <actor>George Segal</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>David Gallagher</actor>
+      <actor>Danny De Vito</actor>
+      <actor>Diane Keaton</actor>
+    </credits>
+    <date>1993</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719085500 -0300" stop="20190719102500 -0300" channel="HBO FAMILY">
+    <title lang="pt">A Princesa Encantada</title>
+    <desc lang="pt">O rei William sonhava com um herdeiro. Até o dia em que nasceu a princesa Odete(n)</desc>
+    <credits>
+      <director>Richard Rich</director>
+      <actor>Vozes de Jack Palance</actor>
+      <actor>Howard McGillin</actor>
+      <actor>Michelle Nicastro</actor>
+      <actor>John Cleese</actor>
+      <actor>Steven Wright</actor>
+      <actor>Steve Vinovich</actor>
+      <actor>Mark Harelik</actor>
+      <actor>James Arrington</actor>
+      <actor>Joel McKinnon Miller</actor>
+      <actor>Dakin Matthews</actor>
+    </credits>
+    <date>1994</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719102500 -0300" stop="20190719115700 -0300" channel="HBO FAMILY">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <desc lang="pt">O esquilo Surly e seus amigos vivem no bem-bom numa loja de nozes abandonada. Certo dia, após um acidente, precisam deixar seu lar e voltar para as árvores do Liberty Park(n)</desc>
+    <credits>
+      <director>Cal Brunker</director>
+      <actor>Vozes de Will Arnett</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Isabela Moner</actor>
+      <actor>Bobby Moynihan</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719115700 -0300" stop="20190719122500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Bebês Clássicos: Canção de Ninar</title>
+    <desc lang="pt">Canções de ninar de todo o mundo misturadas com gravações originais de artistas contemporâneos e alguns dos melhores compositores clássicos de todos os tempos(n)</desc>
+    <credits>
+      <director>Amy Schatz</director>
+      <actor>Kelsy Villegas</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719122500 -0300" stop="20190719142000 -0300" channel="HBO FAMILY">
+    <title lang="pt">Winter - O Golfinho</title>
+    <desc lang="pt">Winter, O Golfinho é inspirado na impressionante história real de um corajoso golfinho e da compaixão de estranhos que se uniram para salvar sua vida(n)</desc>
+    <credits>
+      <director>Charles Martin Smith</director>
+      <actor>Harry Connick Jr</actor>
+      <actor>Ashley Judd</actor>
+      <actor>Nathan Gamble</actor>
+      <actor>Kris Kristofferson</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719142000 -0300" stop="20190719160300 -0300" channel="HBO FAMILY">
+    <title lang="pt">Eternamente Jovem</title>
+    <desc lang="pt">Piloto da Força Aérea Americana se desespera quando sua namorada entra em coma, após ser atropelada e concorda em servir de cobaia para projeto secreto(n)</desc>
+    <credits>
+      <director>Steve Miner</director>
+      <actor>Mel Gibson</actor>
+      <actor>Jamie Lee Curtis</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Isabel Glasser</actor>
+      <actor>George Wendt</actor>
+      <actor>Joe Morton</actor>
+      <actor>Nicolas Surovy</actor>
+      <actor>David Marshall Grant</actor>
+      <actor>Robert Hy Gorman</actor>
+      <actor>Michael A. Goorjian</actor>
+    </credits>
+    <date>1992</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190719160300 -0300" stop="20190719175500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Uma Boa Mentira</title>
+    <desc lang="pt">Esta é a história de quatro meninos que sobreviveram à guerra civil sudanesa, que começou em 1983. Depois de muitos anos, são acolhidos pelos Estados Unidos, onde têm de se adaptar aos novos costumes(n)</desc>
+    <credits>
+      <director>Philippe Falardeau</director>
+      <actor>Reese Witherspoon</actor>
+      <actor>Corey Stoll</actor>
+      <actor>Arnold Oceng</actor>
+      <actor>Emmanuel Jal. Ger Duany</actor>
+      <actor>Kuoth Wiel</actor>
+      <actor>Femi Oguns</actor>
+      <actor>Lindsey Garrett</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719175500 -0300" stop="20190719200000 -0300" channel="HBO FAMILY">
+    <title lang="pt">Julie &amp; Julia</title>
+    <desc lang="pt">As vidas duas mulheres, Julie Powell e Julia Child, ainda que separadas pelo tempo e o espaço, se veem conectadas quando Julie, cansada de seu trabalho de secretária, decide preparar todas as 524 receitas do livro de Julia Child(n)</desc>
+    <credits>
+      <director>Nora Ephron</director>
+      <actor>Meryl Streep</actor>
+      <actor>Amy Adams</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Chris Messina</actor>
+      <actor>Linda Emond</actor>
+      <actor>Helen Carey</actor>
+      <actor>Mary Lynn Rajskub</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719200000 -0300" stop="20190719213300 -0300" channel="HBO FAMILY">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <desc lang="pt">O esquilo Surly e seus amigos vivem no bem-bom numa loja de nozes abandonada. Certo dia, após um acidente, precisam deixar seu lar e voltar para as árvores do Liberty Park(n)</desc>
+    <credits>
+      <director>Cal Brunker</director>
+      <actor>Vozes de Will Arnett</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Isabela Moner</actor>
+      <actor>Bobby Moynihan</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719213300 -0300" stop="20190719232500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Arthur - O Milionário Irresistível</title>
+    <desc lang="pt">Arthur é um bilionário irresponsável. Agora ele está prestes a tomar uma decisão que mudará sua vida para sempre: optar por um casamento arranjado(n)</desc>
+    <credits>
+      <director>Jason Winer</director>
+      <actor>Russell Brand</actor>
+      <actor>Jennifer Garner</actor>
+      <actor>Helen Mirren</actor>
+      <actor>Greta Gerwig</actor>
+      <actor>Geraldine James</actor>
+      <actor>Luis Guzmán</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719232500 -0300" stop="20190720004800 -0300" channel="HBO FAMILY">
+    <title lang="pt">Little Nicky - Um Diabo Diferente</title>
+    <desc lang="pt">Nicky é um jovem tímido, que vive sendo motivo de chacota por seus irmãos. Nicky seria normal, se não fosse por um detalhe: ele é filho do Diabo(n)</desc>
+    <credits>
+      <director>Steven Brill</director>
+      <actor>Adam Sandler</actor>
+      <actor>Patricia Arquette</actor>
+      <actor>Harvey Keitel</actor>
+      <actor>Rhys Ifans</actor>
+      <actor>Rodney Dangerfield</actor>
+      <actor>Allen Covert</actor>
+      <actor>Peter Dante</actor>
+      <actor>Jonathan Loughran</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Tommy 'Tiny' Lister</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720004800 -0300" stop="20190720030700 -0300" channel="HBO FAMILY">
+    <title lang="pt">Valerian e a Cidade dos Mil Planetas</title>
+    <desc lang="pt">O Major Valerian e a Sargento Laureline formam uma equipe responsável por manter a paz através da galáxia, incluindo Alpha, a cosmopolita cidade habitada por seres de mil planetas(n)</desc>
+    <credits>
+      <director>Luc Besson</director>
+      <actor>Dane DeHaan</actor>
+      <actor>Cara Delevingne</actor>
+      <actor>Clive Owen</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Herbie Hancock. Peter Hudson</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720030700 -0300" stop="20190720042500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Lego DC Comics Super Herois: Aquaman - A Fúria de Atlântida</title>
+    <desc lang="pt">Aquaman deve lutar contra inimigos no ar, em terra e nas profundezas dos Sete Mares, junto com alguma ajuda da Liga da Justiça, para salvar o dia(n)</desc>
+    <credits>
+      <director>Matt Peters</director>
+      <actor>Vozes de Jonathan Adams</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Troy Baker</actor>
+      <actor>Eric Bauza</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720042500 -0300" stop="20190720055200 -0300" channel="HBO FAMILY">
+    <title lang="pt">Dragon Ball Z: A Batalha dos Deuses</title>
+    <desc lang="pt">Bills, o deus da destruição, despertou depois de anos de letargia. Ao escutar que um super saiyajin conseguiu vencer Freezer, Bills vai atrás de Goku e de um suposto deus saiyajin(n)</desc>
+    <credits>
+      <director>Masahiro Hosoda</director>
+      <actor>Vozes de Sean Schemmel</actor>
+      <actor>Jason Douglas</actor>
+      <actor>Ian Sinclair</actor>
+      <actor>Monica Rial</actor>
+      <actor>Cynthia Cranz</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720055200 -0300" stop="20190720071800 -0300" channel="HBO FAMILY">
+    <title lang="pt">Os Jovens Titãs em Ação Nos Cinemas</title>
+    <desc lang="pt">Todos os grandes super-heróis de DC já estrelaram seus próprios filmes... Exceto pelos Jovens Titãs. Para remediar a situação, Robin e o time viajam para Hollywood para achar um diretor(n)</desc>
+    <credits>
+      <director>Aaron Horvath</director>
+      <director>Peter Rida Michail</director>
+      <actor>Vozes de Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Will Arnett</actor>
+      <actor>Kristen Bell</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720071800 -0300" stop="20190720085500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Olha quem está Falando Agora</title>
+    <desc lang="pt">James trabalha como piloto de jato de executiva que quer fisgá-lo. Mesmo atarefada com os filhos, ela sente a ameaça no ar. Tudo às vésperas do Natal(n)</desc>
+    <credits>
+      <director>Tom Ropelewski</director>
+      <actor>John Travolta</actor>
+      <actor>Kirstie Alley</actor>
+      <actor>Lysette Anthony</actor>
+      <actor>George Segal</actor>
+      <actor>Olympia Dukakis</actor>
+      <actor>David Gallagher</actor>
+      <actor>Danny De Vito</actor>
+      <actor>Diane Keaton</actor>
+    </credits>
+    <date>1993</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720085500 -0300" stop="20190720102500 -0300" channel="HBO FAMILY">
+    <title lang="pt">A Princesa Encantada</title>
+    <desc lang="pt">O rei William sonhava com um herdeiro. Até o dia em que nasceu a princesa Odete(n)</desc>
+    <credits>
+      <director>Richard Rich</director>
+      <actor>Vozes de Jack Palance</actor>
+      <actor>Howard McGillin</actor>
+      <actor>Michelle Nicastro</actor>
+      <actor>John Cleese</actor>
+      <actor>Steven Wright</actor>
+      <actor>Steve Vinovich</actor>
+      <actor>Mark Harelik</actor>
+      <actor>James Arrington</actor>
+      <actor>Joel McKinnon Miller</actor>
+      <actor>Dakin Matthews</actor>
+    </credits>
+    <date>1994</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720102500 -0300" stop="20190720115700 -0300" channel="HBO FAMILY">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <desc lang="pt">O esquilo Surly e seus amigos vivem no bem-bom numa loja de nozes abandonada. Certo dia, após um acidente, precisam deixar seu lar e voltar para as árvores do Liberty Park(n)</desc>
+    <credits>
+      <director>Cal Brunker</director>
+      <actor>Vozes de Will Arnett</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Isabela Moner</actor>
+      <actor>Bobby Moynihan</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720115700 -0300" stop="20190720122500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Bebês Clássicos: Canção de Ninar</title>
+    <desc lang="pt">Canções de ninar de todo o mundo misturadas com gravações originais de artistas contemporâneos e alguns dos melhores compositores clássicos de todos os tempos(n)</desc>
+    <credits>
+      <director>Amy Schatz</director>
+      <actor>Kelsy Villegas</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720122500 -0300" stop="20190720142000 -0300" channel="HBO FAMILY">
+    <title lang="pt">Winter - O Golfinho</title>
+    <desc lang="pt">Winter, O Golfinho é inspirado na impressionante história real de um corajoso golfinho e da compaixão de estranhos que se uniram para salvar sua vida(n)</desc>
+    <credits>
+      <director>Charles Martin Smith</director>
+      <actor>Harry Connick Jr</actor>
+      <actor>Ashley Judd</actor>
+      <actor>Nathan Gamble</actor>
+      <actor>Kris Kristofferson</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720142000 -0300" stop="20190720160300 -0300" channel="HBO FAMILY">
+    <title lang="pt">Eternamente Jovem</title>
+    <desc lang="pt">Piloto da Força Aérea Americana se desespera quando sua namorada entra em coma, após ser atropelada e concorda em servir de cobaia para projeto secreto(n)</desc>
+    <credits>
+      <director>Steve Miner</director>
+      <actor>Mel Gibson</actor>
+      <actor>Jamie Lee Curtis</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Isabel Glasser</actor>
+      <actor>George Wendt</actor>
+      <actor>Joe Morton</actor>
+      <actor>Nicolas Surovy</actor>
+      <actor>David Marshall Grant</actor>
+      <actor>Robert Hy Gorman</actor>
+      <actor>Michael A. Goorjian</actor>
+    </credits>
+    <date>1992</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190720160300 -0300" stop="20190720175500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Uma Boa Mentira</title>
+    <desc lang="pt">Esta é a história de quatro meninos que sobreviveram à guerra civil sudanesa, que começou em 1983. Depois de muitos anos, são acolhidos pelos Estados Unidos, onde têm de se adaptar aos novos costumes(n)</desc>
+    <credits>
+      <director>Philippe Falardeau</director>
+      <actor>Reese Witherspoon</actor>
+      <actor>Corey Stoll</actor>
+      <actor>Arnold Oceng</actor>
+      <actor>Emmanuel Jal. Ger Duany</actor>
+      <actor>Kuoth Wiel</actor>
+      <actor>Femi Oguns</actor>
+      <actor>Lindsey Garrett</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720175500 -0300" stop="20190720200000 -0300" channel="HBO FAMILY">
+    <title lang="pt">Julie &amp; Julia</title>
+    <desc lang="pt">As vidas duas mulheres, Julie Powell e Julia Child, ainda que separadas pelo tempo e o espaço, se veem conectadas quando Julie, cansada de seu trabalho de secretária, decide preparar todas as 524 receitas do livro de Julia Child(n)</desc>
+    <credits>
+      <director>Nora Ephron</director>
+      <actor>Meryl Streep</actor>
+      <actor>Amy Adams</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Chris Messina</actor>
+      <actor>Linda Emond</actor>
+      <actor>Helen Carey</actor>
+      <actor>Mary Lynn Rajskub</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720200000 -0300" stop="20190720213300 -0300" channel="HBO FAMILY">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <desc lang="pt">O esquilo Surly e seus amigos vivem no bem-bom numa loja de nozes abandonada. Certo dia, após um acidente, precisam deixar seu lar e voltar para as árvores do Liberty Park(n)</desc>
+    <credits>
+      <director>Cal Brunker</director>
+      <actor>Vozes de Will Arnett</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Isabela Moner</actor>
+      <actor>Bobby Moynihan</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720213300 -0300" stop="20190720232500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Arthur - O Milionário Irresistível</title>
+    <desc lang="pt">Arthur é um bilionário irresponsável. Agora ele está prestes a tomar uma decisão que mudará sua vida para sempre: optar por um casamento arranjado(n)</desc>
+    <credits>
+      <director>Jason Winer</director>
+      <actor>Russell Brand</actor>
+      <actor>Jennifer Garner</actor>
+      <actor>Helen Mirren</actor>
+      <actor>Greta Gerwig</actor>
+      <actor>Geraldine James</actor>
+      <actor>Luis Guzmán</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720232500 -0300" stop="20190721005600 -0300" channel="HBO FAMILY">
+    <title lang="pt">Little Nicky - Um Diabo Diferente</title>
+    <desc lang="pt">Nicky é um jovem tímido, que vive sendo motivo de chacota por seus irmãos. Nicky seria normal, se não fosse por um detalhe: ele é filho do Diabo(n)</desc>
+    <credits>
+      <director>Steven Brill</director>
+      <actor>Adam Sandler</actor>
+      <actor>Patricia Arquette</actor>
+      <actor>Harvey Keitel</actor>
+      <actor>Rhys Ifans</actor>
+      <actor>Rodney Dangerfield</actor>
+      <actor>Allen Covert</actor>
+      <actor>Peter Dante</actor>
+      <actor>Jonathan Loughran</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Tommy 'Tiny' Lister</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719003900 -0300" stop="20190719015000 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Uma Nação Estressada</title>
+    <desc lang="pt">Nos anos 60, os Estados Unidos tinham uma das maiores expectativas de vida do mundo. Hoje, apesar de gastar mais com assistência médica do que qualquer outro país, está muito abaixo de outras nações desenvolvidas(n)</desc>
+    <credits>
+      <director>Marc Levin</director>
+      <actor>Sanjay Gupta</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719015000 -0300" stop="20190719021900 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Especial Pico da Neblina - Os Segredos Por Trás da Série</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719021900 -0300" stop="20190719042200 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">A Pele Que Habito</title>
+    <desc lang="pt">Após a trágica morte de sua esposa, um brilhante cirurgião plástico cria uma pele sintética que aguenta qualquer dano. Sua misteriosa cobaia é a linda Vera, que está ligada a suas tragédias passadas(n)</desc>
+    <credits>
+      <director>Pedro Almodóvar</director>
+      <actor>Antonio Banderas</actor>
+      <actor>Elena Anaya</actor>
+      <actor>Marisa Paredes</actor>
+      <actor>Roberto Álamo</actor>
+      <actor>Eduard Fernández</actor>
+      <actor>José Luis Gómez</actor>
+      <actor>Bárbara Lennie</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719042200 -0300" stop="20190719062300 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">A Outra História Americana</title>
+    <desc lang="pt">Depois que seu pai é assassinado, Derek vira skinhead e líder de um grupo neonazista. Movido pelo ódio racial e pelo preconceito, ele mata um rapaz e passa três anos preso. Na dura realidade da cadeia, revê muitos de seus valores(n)</desc>
+    <credits>
+      <director>Tony Kaye</director>
+      <actor>Edward Norton</actor>
+      <actor>Edward Furlong</actor>
+      <actor>Fairuza Balk</actor>
+      <actor>Beverly D'Angelo</actor>
+      <actor>Stacy Keach</actor>
+      <actor>Elliott Gould</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190719062300 -0300" stop="20190719081100 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">O Astronauta</title>
+    <desc lang="pt">Charles é um astronauta que se vê obrigado a abandonar a NASA. Porém não quer renunciar a seu sonho de viajar ao espaço, então ele se dedica a construir um foguete em sua fazenda(n)</desc>
+    <credits>
+      <director>Michael Polish</director>
+      <actor>Billy Bob Thornton</actor>
+      <actor>Virginia Madsen</actor>
+      <actor>Bruce Dern</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719081100 -0300" stop="20190719100400 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Confirmação</title>
+    <desc lang="pt">A nomeação de Clarence Thomas para Juiz da Suprema Corte é posta em causa quando a ex-colega, Anita Hill, o acusa de ter sofrido abuso sexual dele(n)</desc>
+    <credits>
+      <director>Rick Famuyiwa</director>
+      <actor>Kerry Washington</actor>
+      <actor>Zoe Lister-Jones</actor>
+      <actor>Erika Christensen</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Eric Stonestreet</actor>
+      <actor>Jennifer Hudson</actor>
+      <actor>Greg Kinnear</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719100400 -0300" stop="20190719105500 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Temendo perdê-la para sempre, Sookie e Lafayette pensam no que fazer com Tara. Enquanto isso, Bill e Eric recebem a visita do Magistrado e com ele chega Nora, uma mulher do passado de Eric(n)</desc>
+    <credits>
+      <director>Daniel Minahan</director>
+      <actor>Anna Paquin</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Rutina Wesley</actor>
+      <actor>Alexander Skarsgård</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719105500 -0300" stop="20190719115700 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Tara resurge em Bon Temps. Pam se lembra de sua vida humana quando era uma dama de companhia em LA e seu primeiro encontro com Eric. Temendo o retorno de Russell, Sookie procura um sistema de segurança para sua casa(n)</desc>
+    <credits>
+      <director>Michael Lehmann</director>
+      <actor>Anna Paquin</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Chris Bauer</actor>
+      <actor>Lauren Bowles</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719115700 -0300" stop="20190719130300 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Bill e Eric lutam por suas vidas contra a Autoridade. Steve Newlin é recrutado como um(n)</desc>
+    <credits>
+      <director>David Petrarca</director>
+      <actor>Anna Paquin</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Alexander Skarsgård</actor>
+      <actor>Kristin Bauer van Straten</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719130300 -0300" stop="20190719140500 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Eric e Bill duvidam de sua sobrevivência enquanto buscam por Russell. Sookie se abre a Alcide sobre Debbie. Um Lafayette irado coloca a vida de Sookie em perigo(n)</desc>
+    <credits>
+      <director>Romeo Tirone</director>
+      <actor>Anna Paquin</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Rutina Wesley</actor>
+      <actor>Chris Bauer</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719140500 -0300" stop="20190719145800 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Com o tempo se esgotando, Bill e Eric alistam Sookie para buscar o esconderijo de Russell. Sem conseguir lidar com a mágica dentro de si, Lafayette chama pelo espírito de Jesus para ajudá-lo(n)</desc>
+    <credits>
+      <director>Michael Lehmann</director>
+      <actor>Clint Culp</actor>
+      <actor>Alissa Ford</actor>
+      <actor>Lindsey Haun</actor>
+      <actor>Jamie Gray Hyder</actor>
+      <actor>Anna Khaja</actor>
+      <actor>Jonathan Kowalsky</actor>
+      <actor>Honey Lauren</actor>
+      <actor>Jobeth Wagner</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719145800 -0300" stop="20190719155600 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">As consequências do asilo deixam Sookie com uma estranha sensação. No Fangtasia, Pam interrompe uma briga de vampiras, impressionando Tara por sua tenacidade. Lafayette visita Ruby Jean(n)</desc>
+    <credits>
+      <director>Daniel Attias</director>
+      <actor>Dale Dickey</actor>
+      <actor>Alissa Ford</actor>
+      <actor>Lindsey Haun</actor>
+      <actor>Louis Herthum</actor>
+      <actor>Jamie Gray Hyder</actor>
+      <actor>Camilla Luddington</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719155600 -0300" stop="20190719170000 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Salome revela suas verdadeiras lealdades enquanto Bill e Eric conseguem provar um pouco do sangue sagrado. Uma revelação em Hot Wings faz com que Sookie se pergunte como seria sua vida sem poderes de fada(n)</desc>
+    <credits>
+      <director>Michael Ruscio</director>
+      <actor>David Bickford</actor>
+      <actor>Christie Burson</actor>
+      <actor>Dale Dickey</actor>
+      <actor>Jennifer Hasty</actor>
+      <actor>Louis Herthum</actor>
+      <actor>Kiva Jump</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719170000 -0300" stop="20190719180000 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Na sede da Autoridade, os Chanceleres se deleitam com o resplendor de Lilith, Eric recebe uma mensagem de Godric, Bill se vê mexido por uma memória distante. Sookie e Jason visitam o lugar onde morreram seus pais(n)</desc>
+    <credits>
+      <director>Stephen Moyer</director>
+      <actor>Louis Herthum</actor>
+      <actor>Camilla Luddington</actor>
+      <actor>Jobeth Wagner</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719180000 -0300" stop="20190719190400 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Minha Vida é um Circo: Me Lhama Que Eu Vou</title>
+    <desc lang="pt">A trupe deixa Las Vegas e vai ao Peru conhecer um circo que é motivo de orgulho nacional(n)</desc>
+    <credits>
+      <director>Felipe Briso</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719190400 -0300" stop="20190719200400 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Enquanto a Autoridade continua com o plano de Lilith, Eric planeja sua fuga. Gran leva Sookie a uma pista sobre o assassinato de seus pais. Andy e Jason buscam as identidades de quem cometeu os assassinatos(n)</desc>
+    <credits>
+      <director>Daniel Attias</director>
+      <actor>Jennifer Hasty</actor>
+      <actor>Louis Herthum</actor>
+      <actor>Jamie Gray Hyder</actor>
+      <actor>Anna Khaja</actor>
+      <actor>Camilla Luddington</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719200400 -0300" stop="20190719205500 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Com o aumento de ataques de vampiros a humanos, a Autoridade tenta conseguir o apoio público. Enquanto isso, Nora tenta converter Eric ao feitiço de Lilith. Jason encontra uma escritura misteriosa(n)</desc>
+    <credits>
+      <director>Scott Winant</director>
+      <actor>Rutina Wesley</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Anna Paquin</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719205500 -0300" stop="20190719214800 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Com um grande fervor religioso, Bill dá uma ordem a Jessica que não deseja realizar. Armado com um vídeo condenatório de Russell e Steve, o exército dá um ultimato à Autoridade(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Rutina Wesley</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Chris Bauer</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Anna Paquin</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719214800 -0300" stop="20190719224500 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Final da 5ª temporada, Eric embarca em uma missão para acabar com a Autoridade e salvar Bill de perder sua humanidade. Andy enfrenta as consequencias de um pacto que fez. Sam e Luna tentam escapar da Autoridade(n)</desc>
+    <credits>
+      <director>Michael Lehmann</director>
+      <actor>Rutina Wesley</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Anna Paquin</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719224500 -0300" stop="20190720003900 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Guerreiro</title>
+    <desc lang="pt">Tommy Riordan, um problemático ex-Marine, retorna para casa e pede a seu pai, um alcoólatra recuperado, que o inscreva em um torneio de artes marciais (MMA). Isto o coloca em atrito com seu irmão mais velho, Brendan(n)</desc>
+    <credits>
+      <director>Gavin O'Connor</director>
+      <actor>Joel Edgerton</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Nick Nolte</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Kevin Dunn</actor>
+      <actor>Vanessa Martinez</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720003900 -0300" stop="20190720015000 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Uma Nação Estressada</title>
+    <desc lang="pt">Nos anos 60, os Estados Unidos tinham uma das maiores expectativas de vida do mundo. Hoje, apesar de gastar mais com assistência médica do que qualquer outro país, está muito abaixo de outras nações desenvolvidas(n)</desc>
+    <credits>
+      <director>Marc Levin</director>
+      <actor>Sanjay Gupta</actor>
+    </credits>
+    <date>2019</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720015000 -0300" stop="20190720021900 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Especial Pico da Neblina - Os Segredos Por Trás da Série</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720021900 -0300" stop="20190720042200 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">A Pele Que Habito</title>
+    <desc lang="pt">Após a trágica morte de sua esposa, um brilhante cirurgião plástico cria uma pele sintética que aguenta qualquer dano. Sua misteriosa cobaia é a linda Vera, que está ligada a suas tragédias passadas(n)</desc>
+    <credits>
+      <director>Pedro Almodóvar</director>
+      <actor>Antonio Banderas</actor>
+      <actor>Elena Anaya</actor>
+      <actor>Marisa Paredes</actor>
+      <actor>Roberto Álamo</actor>
+      <actor>Eduard Fernández</actor>
+      <actor>José Luis Gómez</actor>
+      <actor>Bárbara Lennie</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720042200 -0300" stop="20190720062300 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">A Outra História Americana</title>
+    <desc lang="pt">Depois que seu pai é assassinado, Derek vira skinhead e líder de um grupo neonazista. Movido pelo ódio racial e pelo preconceito, ele mata um rapaz e passa três anos preso. Na dura realidade da cadeia, revê muitos de seus valores(n)</desc>
+    <credits>
+      <director>Tony Kaye</director>
+      <actor>Edward Norton</actor>
+      <actor>Edward Furlong</actor>
+      <actor>Fairuza Balk</actor>
+      <actor>Beverly D'Angelo</actor>
+      <actor>Stacy Keach</actor>
+      <actor>Elliott Gould</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190720062300 -0300" stop="20190720081100 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">O Astronauta</title>
+    <desc lang="pt">Charles é um astronauta que se vê obrigado a abandonar a NASA. Porém não quer renunciar a seu sonho de viajar ao espaço, então ele se dedica a construir um foguete em sua fazenda(n)</desc>
+    <credits>
+      <director>Michael Polish</director>
+      <actor>Billy Bob Thornton</actor>
+      <actor>Virginia Madsen</actor>
+      <actor>Bruce Dern</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720081100 -0300" stop="20190720100400 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Confirmação</title>
+    <desc lang="pt">A nomeação de Clarence Thomas para Juiz da Suprema Corte é posta em causa quando a ex-colega, Anita Hill, o acusa de ter sofrido abuso sexual dele(n)</desc>
+    <credits>
+      <director>Rick Famuyiwa</director>
+      <actor>Kerry Washington</actor>
+      <actor>Zoe Lister-Jones</actor>
+      <actor>Erika Christensen</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Eric Stonestreet</actor>
+      <actor>Jennifer Hudson</actor>
+      <actor>Greg Kinnear</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720100400 -0300" stop="20190720105500 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Temendo perdê-la para sempre, Sookie e Lafayette pensam no que fazer com Tara. Enquanto isso, Bill e Eric recebem a visita do Magistrado e com ele chega Nora, uma mulher do passado de Eric(n)</desc>
+    <credits>
+      <director>Daniel Minahan</director>
+      <actor>Anna Paquin</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Rutina Wesley</actor>
+      <actor>Alexander Skarsgård</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720105500 -0300" stop="20190720115700 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Tara resurge em Bon Temps. Pam se lembra de sua vida humana quando era uma dama de companhia em LA e seu primeiro encontro com Eric. Temendo o retorno de Russell, Sookie procura um sistema de segurança para sua casa(n)</desc>
+    <credits>
+      <director>Michael Lehmann</director>
+      <actor>Anna Paquin</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Chris Bauer</actor>
+      <actor>Lauren Bowles</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720115700 -0300" stop="20190720130300 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Bill e Eric lutam por suas vidas contra a Autoridade. Steve Newlin é recrutado como um(n)</desc>
+    <credits>
+      <director>David Petrarca</director>
+      <actor>Anna Paquin</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Alexander Skarsgård</actor>
+      <actor>Kristin Bauer van Straten</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720130300 -0300" stop="20190720140500 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Eric e Bill duvidam de sua sobrevivência enquanto buscam por Russell. Sookie se abre a Alcide sobre Debbie. Um Lafayette irado coloca a vida de Sookie em perigo(n)</desc>
+    <credits>
+      <director>Romeo Tirone</director>
+      <actor>Anna Paquin</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Rutina Wesley</actor>
+      <actor>Chris Bauer</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720140500 -0300" stop="20190720145800 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Com o tempo se esgotando, Bill e Eric alistam Sookie para buscar o esconderijo de Russell. Sem conseguir lidar com a mágica dentro de si, Lafayette chama pelo espírito de Jesus para ajudá-lo(n)</desc>
+    <credits>
+      <director>Michael Lehmann</director>
+      <actor>Clint Culp</actor>
+      <actor>Alissa Ford</actor>
+      <actor>Lindsey Haun</actor>
+      <actor>Jamie Gray Hyder</actor>
+      <actor>Anna Khaja</actor>
+      <actor>Jonathan Kowalsky</actor>
+      <actor>Honey Lauren</actor>
+      <actor>Jobeth Wagner</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720145800 -0300" stop="20190720155600 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">As consequências do asilo deixam Sookie com uma estranha sensação. No Fangtasia, Pam interrompe uma briga de vampiras, impressionando Tara por sua tenacidade. Lafayette visita Ruby Jean(n)</desc>
+    <credits>
+      <director>Daniel Attias</director>
+      <actor>Dale Dickey</actor>
+      <actor>Alissa Ford</actor>
+      <actor>Lindsey Haun</actor>
+      <actor>Louis Herthum</actor>
+      <actor>Jamie Gray Hyder</actor>
+      <actor>Camilla Luddington</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720155600 -0300" stop="20190720170000 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Salome revela suas verdadeiras lealdades enquanto Bill e Eric conseguem provar um pouco do sangue sagrado. Uma revelação em Hot Wings faz com que Sookie se pergunte como seria sua vida sem poderes de fada(n)</desc>
+    <credits>
+      <director>Michael Ruscio</director>
+      <actor>David Bickford</actor>
+      <actor>Christie Burson</actor>
+      <actor>Dale Dickey</actor>
+      <actor>Jennifer Hasty</actor>
+      <actor>Louis Herthum</actor>
+      <actor>Kiva Jump</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720170000 -0300" stop="20190720180000 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Na sede da Autoridade, os Chanceleres se deleitam com o resplendor de Lilith, Eric recebe uma mensagem de Godric, Bill se vê mexido por uma memória distante. Sookie e Jason visitam o lugar onde morreram seus pais(n)</desc>
+    <credits>
+      <director>Stephen Moyer</director>
+      <actor>Louis Herthum</actor>
+      <actor>Camilla Luddington</actor>
+      <actor>Jobeth Wagner</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720180000 -0300" stop="20190720190400 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Minha Vida é um Circo: Me Lhama Que Eu Vou</title>
+    <desc lang="pt">A trupe deixa Las Vegas e vai ao Peru conhecer um circo que é motivo de orgulho nacional(n)</desc>
+    <credits>
+      <director>Felipe Briso</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720190400 -0300" stop="20190720200400 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Enquanto a Autoridade continua com o plano de Lilith, Eric planeja sua fuga. Gran leva Sookie a uma pista sobre o assassinato de seus pais. Andy e Jason buscam as identidades de quem cometeu os assassinatos(n)</desc>
+    <credits>
+      <director>Daniel Attias</director>
+      <actor>Jennifer Hasty</actor>
+      <actor>Louis Herthum</actor>
+      <actor>Jamie Gray Hyder</actor>
+      <actor>Anna Khaja</actor>
+      <actor>Camilla Luddington</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720200400 -0300" stop="20190720205500 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Com o aumento de ataques de vampiros a humanos, a Autoridade tenta conseguir o apoio público. Enquanto isso, Nora tenta converter Eric ao feitiço de Lilith. Jason encontra uma escritura misteriosa(n)</desc>
+    <credits>
+      <director>Scott Winant</director>
+      <actor>Rutina Wesley</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Anna Paquin</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720205500 -0300" stop="20190720214800 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Com um grande fervor religioso, Bill dá uma ordem a Jessica que não deseja realizar. Armado com um vídeo condenatório de Russell e Steve, o exército dá um ultimato à Autoridade(n)</desc>
+    <credits>
+      <director>Lesli Linka Glatter</director>
+      <actor>Rutina Wesley</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Chris Bauer</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Anna Paquin</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720214800 -0300" stop="20190720224500 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">True Blood</title>
+    <desc lang="pt">Final da 5ª temporada, Eric embarca em uma missão para acabar com a Autoridade e salvar Bill de perder sua humanidade. Andy enfrenta as consequencias de um pacto que fez. Sam e Luna tentam escapar da Autoridade(n)</desc>
+    <credits>
+      <director>Michael Lehmann</director>
+      <actor>Rutina Wesley</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Anna Paquin</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720224500 -0300" stop="20190721010800 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Guerreiro</title>
+    <desc lang="pt">Tommy Riordan, um problemático ex-Marine, retorna para casa e pede a seu pai, um alcoólatra recuperado, que o inscreva em um torneio de artes marciais (MMA). Isto o coloca em atrito com seu irmão mais velho, Brendan(n)</desc>
+    <credits>
+      <director>Gavin O'Connor</director>
+      <actor>Joel Edgerton</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Nick Nolte</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Kevin Dunn</actor>
+      <actor>Vanessa Martinez</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
     </rating>
   </programme>
 </tv>
