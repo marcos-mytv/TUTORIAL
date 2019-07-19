@@ -1,0 +1,1937 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TELECINE PREMIUM">
+    <display-name lang="pt">TELECINE PREMIUM</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE ACTION">
+    <display-name lang="pt">TELECINE ACTION</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH">
+    <display-name lang="pt">TELECINE TOUCH</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE FUN">
+    <display-name lang="pt">TELECINE FUN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA">
+    <display-name lang="pt">TELECINE PIPOCA</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190719013500 -0300" stop="20190719032000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Aplicativo Do Mal</title>
+    <desc lang="pt">Josh passa boa parte do tempo criticando sites e decide, por diversão, participar do aplicativo I-Lived. Este promete melhorar a vida de seus usuários contanto que eles sigam suas ordens(n)</desc>
+    <credits>
+      <director>Franck Khalfoun</director>
+      <actor>Jeremiah Watkins</actor>
+      <actor>Christopher Mena</actor>
+      <actor>Sarah Power</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190719032000 -0300" stop="20190719052000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">A Máquina De Lembranças</title>
+    <desc lang="pt">Quando Sam perde o irmão num trágico acidente, seu destino o faz se encontrar com o inventor de uma máquina que apaga memórias. Este cientista aparece morto, e Sam utiliza a máquina pra desvendar o mistério de sua morte(n)</desc>
+    <credits>
+      <director>Mark Palansky</director>
+      <actor>Peter Dinklage</actor>
+      <actor>Anton Yelchin</actor>
+      <actor>Jordana Largy</actor>
+      <actor>Martin Donovan</actor>
+      <actor>Matt Ellis</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719052000 -0300" stop="20190719073500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Doentes De Amor</title>
+    <desc lang="pt">Kumail, um comediante de origem paquistanesa, e Emily, uma jovem estudante americana, se apaixonam. Ele mantém a relação em segredo porque sua família é muito tradicional(n)</desc>
+    <credits>
+      <director>Michael Showalter</director>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Holly Hunter</actor>
+      <actor>Ray Romano</actor>
+      <actor>Zoe Kazan</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719073500 -0300" stop="20190719095500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Trama Fantasma</title>
+    <desc lang="pt">Nos anos 50, Reynolds Woodcock é um famoso, impaciente e perfeccionista estilista. Suas peças embelezam atrizes e a realeza britânica. Quando ele conhece a garçonete Alma, ela acaba se tornando sua musa, modelo e amante(n)</desc>
+    <credits>
+      <director>Paul Thomas Anderson</director>
+      <actor>Daniel Day Lewis</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Vicky Krieps</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719095500 -0300" stop="20190719114500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Quem Somos Agora</title>
+    <desc lang="pt">Beth acaba de sair da prisão e quer recuperar a guarda do filho, mas sua irmã Gabby e o marido dela não estão dispostos a sequer compartilhar a custódia. Para isso, ela recebe a ajuda de Jess, uma jovem defensora pública(n)</desc>
+    <credits>
+      <director>Matthew Newton</director>
+      <actor>Julianne Nicholson</actor>
+      <actor>Emma Roberts</actor>
+      <actor>Jess Weixler</actor>
+      <actor>Zachary Quinto</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719114500 -0300" stop="20190719134000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Status Update: Perfil Dos Sonhos</title>
+    <desc lang="pt">O adolescente Kyle Moore enfrenta dificuldades para se ajustar à nova escola. Os valentões não saem da sua cola, e a garota dos seus sonhos parece ser inalcansável(n)</desc>
+    <credits>
+      <director>Scott Speer</director>
+      <actor>Ross Lynch</actor>
+      <actor>Courtney Eaton</actor>
+      <actor>Gregg Sulkin</actor>
+      <actor>Harvey Guillen</actor>
+      <actor>Holt Olivia</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719134000 -0300" stop="20190719151500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Tudo Acaba Em Festa</title>
+    <desc lang="pt">O baladeiro Vlad é convocado para organizar a festa da empresa em que trabalha com o intuito de unir os funcionários. Vendo a oportunidade de chamar a atenção de Aline, sua ex-namorada, ele aceita(n)</desc>
+    <credits>
+      <director>André Pellenz</director>
+      <actor>Marcos Veras</actor>
+      <actor>Diogo Vilela</actor>
+      <actor>Giovanna Lancellotti</actor>
+      <actor>Maria Clara Gueiros</actor>
+      <actor>Nelson Freitas</actor>
+      <actor>Rosanne Mulholland</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719151500 -0300" stop="20190719175000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Star Wars: Os Últimos Jedi</title>
+    <desc lang="pt">A jovem Rey vai até o planeta onde Luke Skywalker está recluso para pedir que ele lidere os rebeldes e que a ensine a lidar com a Força(n)</desc>
+    <credits>
+      <director>Rian Johnson</director>
+      <actor>Daisy Ridley</actor>
+      <actor>Adam Driver</actor>
+      <actor>Carrie Fisher</actor>
+      <actor>John Boyega</actor>
+      <actor>Laura Dern</actor>
+      <actor>Mark Hamill</actor>
+      <actor>Oscar Isaac</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719175000 -0300" stop="20190719192500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Gnomeu E Julieta: O Mistério Do Jardim</title>
+    <desc lang="pt">Gnomeu e Julieta são um casal de gnomos que acaba de chegar a um novo lar. Prontos para viver novas aventuras, a dupla é pega de surpresa quando seus colegas de jardim desaparecem(n)</desc>
+    <credits>
+      <director>John Stevenson</director>
+      <actor>Johnny Depp</actor>
+      <actor>Emily Blunt</actor>
+      <actor>James McAvoy</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719192500 -0300" stop="20190719220000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Maze Runner: A Cura Mortal</title>
+    <desc lang="pt">Thomas e seus amigos planejam libertar Minho, capturado pela C.R.U.E.L., grupo que realiza experimentos em humanos imunes para procurar a cura de um vírus mortal(n)</desc>
+    <credits>
+      <director>Wes Ball</director>
+      <actor>Dylan O'brien</actor>
+      <actor>Kaya Scodelario</actor>
+      <actor>Ki Hong Lee</actor>
+      <actor>Thomas Brodie-Sangster</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719220000 -0300" stop="20190719234000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">No Limite (2017)</title>
+    <desc lang="pt">Os irmãos Andrew e Garrett são ladrões de carro profissionais. Mas, quando roubam um valioso automóvel de um chefe do crime, a dupla é forçada a realizar um novo trabalho para sobreviver(n)</desc>
+    <credits>
+      <director>Antonio Negret</director>
+      <actor>Scott Eastwood</actor>
+      <actor>Ana De Armas</actor>
+      <actor>Freddie Thorp</actor>
+      <actor>Gaia Weiss</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719234000 -0300" stop="20190720013500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">O Grinch (2018)</title>
+    <desc lang="pt">Às vésperas do Natal, os moradores de Quemlândia preparam a grande festa anual em celebração à data. Grinch, o pequeno ser verde e mal-humorado, detesta a festividade(n)</desc>
+    <credits>
+      <director>Scott Mosier</director>
+      <director>Yarrow Cheney</director>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Cameron Seely</actor>
+      <actor>Pharrell Williams</actor>
+      <actor>Rashida Jones</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720013500 -0300" stop="20190720032000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Aplicativo Do Mal</title>
+    <desc lang="pt">Josh passa boa parte do tempo criticando sites e decide, por diversão, participar do aplicativo I-Lived. Este promete melhorar a vida de seus usuários contanto que eles sigam suas ordens(n)</desc>
+    <credits>
+      <director>Franck Khalfoun</director>
+      <actor>Jeremiah Watkins</actor>
+      <actor>Christopher Mena</actor>
+      <actor>Sarah Power</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190720032000 -0300" stop="20190720052000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">A Máquina De Lembranças</title>
+    <desc lang="pt">Quando Sam perde o irmão num trágico acidente, seu destino o faz se encontrar com o inventor de uma máquina que apaga memórias. Este cientista aparece morto, e Sam utiliza a máquina pra desvendar o mistério de sua morte(n)</desc>
+    <credits>
+      <director>Mark Palansky</director>
+      <actor>Peter Dinklage</actor>
+      <actor>Anton Yelchin</actor>
+      <actor>Jordana Largy</actor>
+      <actor>Martin Donovan</actor>
+      <actor>Matt Ellis</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720052000 -0300" stop="20190720073500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Doentes De Amor</title>
+    <desc lang="pt">Kumail, um comediante de origem paquistanesa, e Emily, uma jovem estudante americana, se apaixonam. Ele mantém a relação em segredo porque sua família é muito tradicional(n)</desc>
+    <credits>
+      <director>Michael Showalter</director>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Holly Hunter</actor>
+      <actor>Ray Romano</actor>
+      <actor>Zoe Kazan</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720073500 -0300" stop="20190720095500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Trama Fantasma</title>
+    <desc lang="pt">Nos anos 50, Reynolds Woodcock é um famoso, impaciente e perfeccionista estilista. Suas peças embelezam atrizes e a realeza britânica. Quando ele conhece a garçonete Alma, ela acaba se tornando sua musa, modelo e amante(n)</desc>
+    <credits>
+      <director>Paul Thomas Anderson</director>
+      <actor>Daniel Day Lewis</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Vicky Krieps</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720095500 -0300" stop="20190720114500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Quem Somos Agora</title>
+    <desc lang="pt">Beth acaba de sair da prisão e quer recuperar a guarda do filho, mas sua irmã Gabby e o marido dela não estão dispostos a sequer compartilhar a custódia. Para isso, ela recebe a ajuda de Jess, uma jovem defensora pública(n)</desc>
+    <credits>
+      <director>Matthew Newton</director>
+      <actor>Julianne Nicholson</actor>
+      <actor>Emma Roberts</actor>
+      <actor>Jess Weixler</actor>
+      <actor>Zachary Quinto</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720114500 -0300" stop="20190720134000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Status Update: Perfil Dos Sonhos</title>
+    <desc lang="pt">O adolescente Kyle Moore enfrenta dificuldades para se ajustar à nova escola. Os valentões não saem da sua cola, e a garota dos seus sonhos parece ser inalcansável(n)</desc>
+    <credits>
+      <director>Scott Speer</director>
+      <actor>Ross Lynch</actor>
+      <actor>Courtney Eaton</actor>
+      <actor>Gregg Sulkin</actor>
+      <actor>Harvey Guillen</actor>
+      <actor>Holt Olivia</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720134000 -0300" stop="20190720151500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Tudo Acaba Em Festa</title>
+    <desc lang="pt">O baladeiro Vlad é convocado para organizar a festa da empresa em que trabalha com o intuito de unir os funcionários. Vendo a oportunidade de chamar a atenção de Aline, sua ex-namorada, ele aceita(n)</desc>
+    <credits>
+      <director>André Pellenz</director>
+      <actor>Marcos Veras</actor>
+      <actor>Diogo Vilela</actor>
+      <actor>Giovanna Lancellotti</actor>
+      <actor>Maria Clara Gueiros</actor>
+      <actor>Nelson Freitas</actor>
+      <actor>Rosanne Mulholland</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720151500 -0300" stop="20190720175000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Star Wars: Os Últimos Jedi</title>
+    <desc lang="pt">A jovem Rey vai até o planeta onde Luke Skywalker está recluso para pedir que ele lidere os rebeldes e que a ensine a lidar com a Força(n)</desc>
+    <credits>
+      <director>Rian Johnson</director>
+      <actor>Daisy Ridley</actor>
+      <actor>Adam Driver</actor>
+      <actor>Carrie Fisher</actor>
+      <actor>John Boyega</actor>
+      <actor>Laura Dern</actor>
+      <actor>Mark Hamill</actor>
+      <actor>Oscar Isaac</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720175000 -0300" stop="20190720192500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Gnomeu E Julieta: O Mistério Do Jardim</title>
+    <desc lang="pt">Gnomeu e Julieta são um casal de gnomos que acaba de chegar a um novo lar. Prontos para viver novas aventuras, a dupla é pega de surpresa quando seus colegas de jardim desaparecem(n)</desc>
+    <credits>
+      <director>John Stevenson</director>
+      <actor>Johnny Depp</actor>
+      <actor>Emily Blunt</actor>
+      <actor>James McAvoy</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720192500 -0300" stop="20190720220000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Maze Runner: A Cura Mortal</title>
+    <desc lang="pt">Thomas e seus amigos planejam libertar Minho, capturado pela C.R.U.E.L., grupo que realiza experimentos em humanos imunes para procurar a cura de um vírus mortal(n)</desc>
+    <credits>
+      <director>Wes Ball</director>
+      <actor>Dylan O'brien</actor>
+      <actor>Kaya Scodelario</actor>
+      <actor>Ki Hong Lee</actor>
+      <actor>Thomas Brodie-Sangster</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720220000 -0300" stop="20190720234000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">No Limite (2017)</title>
+    <desc lang="pt">Os irmãos Andrew e Garrett são ladrões de carro profissionais. Mas, quando roubam um valioso automóvel de um chefe do crime, a dupla é forçada a realizar um novo trabalho para sobreviver(n)</desc>
+    <credits>
+      <director>Antonio Negret</director>
+      <actor>Scott Eastwood</actor>
+      <actor>Ana De Armas</actor>
+      <actor>Freddie Thorp</actor>
+      <actor>Gaia Weiss</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720234000 -0300" stop="20190721011500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">O Grinch (2018)</title>
+    <desc lang="pt">Às vésperas do Natal, os moradores de Quemlândia preparam a grande festa anual em celebração à data. Grinch, o pequeno ser verde e mal-humorado, detesta a festividade(n)</desc>
+    <credits>
+      <director>Scott Mosier</director>
+      <director>Yarrow Cheney</director>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Cameron Seely</actor>
+      <actor>Pharrell Williams</actor>
+      <actor>Rashida Jones</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719013000 -0300" stop="20190719032500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Os Suspeitos (1995)</title>
+    <desc lang="pt">Uma grande explosão em um cais deixa apenas 2 sobreviventes, um húngaro em estado grave e Verbal Kint, já conhecido da polícia(n)</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>Kevin Spacey</actor>
+      <actor>Benicio Del Toro</actor>
+      <actor>Chazz Palminteri</actor>
+      <actor>Gabriel Byrne</actor>
+      <actor>Pete Postlethwaite</actor>
+      <actor>Stephen Baldwin</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719032500 -0300" stop="20190719051500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Contos Eróticos 3</title>
+    <desc lang="pt">Carla Cox e Tracy Lindsay em mais um sucesso do Contos Eróticos. Conheça as novas aventuras sensuais desses casais que são especialistas na arte do prazer(n)</desc>
+    <credits>
+      <director>Roman Sluka</director>
+      <actor>Blanche Bradburry</actor>
+      <actor>Mark Archer</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190719051500 -0300" stop="20190719072000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">O Grande Mestre (2013)</title>
+    <desc lang="pt">Na China dos anos 1930, o grande mestre Gong Yutian é derrotado por aquele que seria conhecido futuramente como o mentor de Bruce Lee, o lutador de kung fu Ip Man(n)</desc>
+    <credits>
+      <director>Kar-Wai Wong</director>
+      <actor>Tony Leung</actor>
+      <actor>Hye-Kyo Song</actor>
+      <actor>Ziyi Zhang</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719072000 -0300" stop="20190719090500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Ficção Científica Volume Um: O Legado De Osiris</title>
+    <desc lang="pt">No futuro, em tempos de colonização interplanetária, o ex-enfermeiro Sy Lombrok vive como um andarilho. Ao conhecer o tenente Kane Sommerville, eles formam uma união improvável e partem em busca da filha de Kane(n)</desc>
+    <credits>
+      <director>Shane Abbess</director>
+      <actor>Kellan Lutz</actor>
+      <actor>Daniel Macpherson</actor>
+      <actor>Isabel Lucas</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719090500 -0300" stop="20190719111500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Caçadores De Emoção</title>
+    <desc lang="pt">Johnny Utah, recebe como missão se infiltrar em uma gangue de surfistas que tem cometido assaltos com máscaras de ex-presidentes americanos. Mas Johnny logo faz amizade com Bodhi, o líder, e acaba adotando seu estilo de vida(n)</desc>
+    <credits>
+      <director>Kathryn Bigelow</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Gary Busey</actor>
+      <actor>Patrick Swayze</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719111500 -0300" stop="20190719130000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Fuga Implacável</title>
+    <desc lang="pt">Will Shaw vive para o trabalho. Mesmo nas férias, durante uma viagem de barco pela Espanha, ele não consegue se desligar. Quando sua mãe e irmão são sequestrados, ele descobre que seu pai é da CIA(n)</desc>
+    <credits>
+      <director>Mabrouk El Mechri</director>
+      <actor>Henry Cavill</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Sigourney Weaver</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719130000 -0300" stop="20190719145000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Tentáculos</title>
+    <desc lang="pt">Um grupo de ladrões invade um luxuoso navio em busca de joias. Na embarcação, eles acabam encontrando seu pior pesadelo, um poderoso monstro marinho com tentáculos que come seres humanos(n)</desc>
+    <credits>
+      <director>Stephen Sommers</director>
+      <actor>Treat Williams</actor>
+      <actor>Anthony Heald</actor>
+      <actor>Famke Janssen</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719145000 -0300" stop="20190719164500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">#NOME</title>
+    <desc lang="pt">Um policial reformado é forçado a participar de uma investigação com um ex-amigo de colégio. Para isso, precisa se infiltrar no crime organizado e ajudar a polícia a prender o chefe do tráfico(n)</desc>
+    <credits>
+      <director>John Singleton</director>
+      <actor>Paul Walker</actor>
+      <actor>Eva Mendes</actor>
+      <actor>Tyrese Gibson</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719164500 -0300" stop="20190719183000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">O Segredo Da Cabana</title>
+    <desc lang="pt">Cinco amigos pretendem passar um fim de semana longe de tudo e se hospedam em uma cabana no meio da floresta. Sem querer, eles descobrem antigos artefatos pertencentes ao local que acabam colocando suas vidas em risco(n)</desc>
+    <credits>
+      <director>Drew Goddard</director>
+      <actor>Kristen Connolly</actor>
+      <actor>Anna Hutchison</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Fran Kranz</actor>
+      <actor>Jesse Williams</actor>
+      <actor>Richard Jenkins</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719183000 -0300" stop="20190719200500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Sequestro Relâmpago</title>
+    <desc lang="pt">Isabel é sequestrada por dois rapazes. Eles dirigem à procura de um caixa eletrônico, mas quando encontram, a máquina está quebrada. Ao perceberem que passa das 22h eles resolvem mantê-la refém até o amanhecer(n)</desc>
+    <credits>
+      <director>Tata Amaral</director>
+      <actor>Marina Ruy Barbosa</actor>
+      <actor>Daniel Rocha</actor>
+      <actor>Sidney Santiago</actor>
+      <actor>Tess Amorim</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719200500 -0300" stop="20190719220000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Fúria Sobre Rodas</title>
+    <desc lang="pt">Com um histórico sombrio, Milton retorna à cena para resgatar sua neta das mãos de uma seita. No passado, ele perdeu sua filha para o líder do mesmo grupo e agora promete não deixar o erro se repetir(n)</desc>
+    <credits>
+      <director>Patrick Lussier</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Amber Heard</actor>
+      <actor>Billy Burke</actor>
+      <actor>David Morse</actor>
+      <actor>William Fichtner</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719220000 -0300" stop="20190719233500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Massacre No Texas</title>
+    <desc lang="pt">A história da origem do assassino da serra elétrica, Jackson, um adolescente com distúrbios mentais que foge de um hospital psiquiátrico com outros três pacientes(n)</desc>
+    <credits>
+      <director>Alexandre Bustillo</director>
+      <director>Julien Maury</director>
+      <actor>Sam Strike</actor>
+      <actor>Lili Taylor</actor>
+      <actor>Stephen Dorff</actor>
+      <actor>Vanessa Grasse</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190719233500 -0300" stop="20190720013000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">O Massacre Da Serra Elétrica (2013)</title>
+    <desc lang="pt">Em 1974, a família Sawyer sofre um ataque de moradores da região e apenas um bebê sobrevive. Anos depois, Heather Miller descobre que herdou a mansão. Lá, ela descobre que além da casa, um cruel legado foi deixado pela família(n)</desc>
+    <credits>
+      <director>John Luessenhop</director>
+      <actor>Alexandra Daddario</actor>
+      <actor>Scott Eastwood</actor>
+      <actor>Tania Raymonde</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190720013000 -0300" stop="20190720032500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Os Suspeitos (1995)</title>
+    <desc lang="pt">Uma grande explosão em um cais deixa apenas 2 sobreviventes, um húngaro em estado grave e Verbal Kint, já conhecido da polícia(n)</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>Kevin Spacey</actor>
+      <actor>Benicio Del Toro</actor>
+      <actor>Chazz Palminteri</actor>
+      <actor>Gabriel Byrne</actor>
+      <actor>Pete Postlethwaite</actor>
+      <actor>Stephen Baldwin</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720032500 -0300" stop="20190720051500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Contos Eróticos 3</title>
+    <desc lang="pt">Carla Cox e Tracy Lindsay em mais um sucesso do Contos Eróticos. Conheça as novas aventuras sensuais desses casais que são especialistas na arte do prazer(n)</desc>
+    <credits>
+      <director>Roman Sluka</director>
+      <actor>Blanche Bradburry</actor>
+      <actor>Mark Archer</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190720051500 -0300" stop="20190720072000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">O Grande Mestre (2013)</title>
+    <desc lang="pt">Na China dos anos 1930, o grande mestre Gong Yutian é derrotado por aquele que seria conhecido futuramente como o mentor de Bruce Lee, o lutador de kung fu Ip Man(n)</desc>
+    <credits>
+      <director>Kar-Wai Wong</director>
+      <actor>Tony Leung</actor>
+      <actor>Hye-Kyo Song</actor>
+      <actor>Ziyi Zhang</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720072000 -0300" stop="20190720090500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Ficção Científica Volume Um: O Legado De Osiris</title>
+    <desc lang="pt">No futuro, em tempos de colonização interplanetária, o ex-enfermeiro Sy Lombrok vive como um andarilho. Ao conhecer o tenente Kane Sommerville, eles formam uma união improvável e partem em busca da filha de Kane(n)</desc>
+    <credits>
+      <director>Shane Abbess</director>
+      <actor>Kellan Lutz</actor>
+      <actor>Daniel Macpherson</actor>
+      <actor>Isabel Lucas</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720090500 -0300" stop="20190720111500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Caçadores De Emoção</title>
+    <desc lang="pt">Johnny Utah, recebe como missão se infiltrar em uma gangue de surfistas que tem cometido assaltos com máscaras de ex-presidentes americanos. Mas Johnny logo faz amizade com Bodhi, o líder, e acaba adotando seu estilo de vida(n)</desc>
+    <credits>
+      <director>Kathryn Bigelow</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Gary Busey</actor>
+      <actor>Patrick Swayze</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720111500 -0300" stop="20190720130000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Fuga Implacável</title>
+    <desc lang="pt">Will Shaw vive para o trabalho. Mesmo nas férias, durante uma viagem de barco pela Espanha, ele não consegue se desligar. Quando sua mãe e irmão são sequestrados, ele descobre que seu pai é da CIA(n)</desc>
+    <credits>
+      <director>Mabrouk El Mechri</director>
+      <actor>Henry Cavill</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Sigourney Weaver</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720130000 -0300" stop="20190720145000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Tentáculos</title>
+    <desc lang="pt">Um grupo de ladrões invade um luxuoso navio em busca de joias. Na embarcação, eles acabam encontrando seu pior pesadelo, um poderoso monstro marinho com tentáculos que come seres humanos(n)</desc>
+    <credits>
+      <director>Stephen Sommers</director>
+      <actor>Treat Williams</actor>
+      <actor>Anthony Heald</actor>
+      <actor>Famke Janssen</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720145000 -0300" stop="20190720164500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">#NOME</title>
+    <desc lang="pt">Um policial reformado é forçado a participar de uma investigação com um ex-amigo de colégio. Para isso, precisa se infiltrar no crime organizado e ajudar a polícia a prender o chefe do tráfico(n)</desc>
+    <credits>
+      <director>John Singleton</director>
+      <actor>Paul Walker</actor>
+      <actor>Eva Mendes</actor>
+      <actor>Tyrese Gibson</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720164500 -0300" stop="20190720183000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">O Segredo Da Cabana</title>
+    <desc lang="pt">Cinco amigos pretendem passar um fim de semana longe de tudo e se hospedam em uma cabana no meio da floresta. Sem querer, eles descobrem antigos artefatos pertencentes ao local que acabam colocando suas vidas em risco(n)</desc>
+    <credits>
+      <director>Drew Goddard</director>
+      <actor>Kristen Connolly</actor>
+      <actor>Anna Hutchison</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Fran Kranz</actor>
+      <actor>Jesse Williams</actor>
+      <actor>Richard Jenkins</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720183000 -0300" stop="20190720200500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Sequestro Relâmpago</title>
+    <desc lang="pt">Isabel é sequestrada por dois rapazes. Eles dirigem à procura de um caixa eletrônico, mas quando encontram, a máquina está quebrada. Ao perceberem que passa das 22h eles resolvem mantê-la refém até o amanhecer(n)</desc>
+    <credits>
+      <director>Tata Amaral</director>
+      <actor>Marina Ruy Barbosa</actor>
+      <actor>Daniel Rocha</actor>
+      <actor>Sidney Santiago</actor>
+      <actor>Tess Amorim</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720200500 -0300" stop="20190720220000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Fúria Sobre Rodas</title>
+    <desc lang="pt">Com um histórico sombrio, Milton retorna à cena para resgatar sua neta das mãos de uma seita. No passado, ele perdeu sua filha para o líder do mesmo grupo e agora promete não deixar o erro se repetir(n)</desc>
+    <credits>
+      <director>Patrick Lussier</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Amber Heard</actor>
+      <actor>Billy Burke</actor>
+      <actor>David Morse</actor>
+      <actor>William Fichtner</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720220000 -0300" stop="20190720233500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Massacre No Texas</title>
+    <desc lang="pt">A história da origem do assassino da serra elétrica, Jackson, um adolescente com distúrbios mentais que foge de um hospital psiquiátrico com outros três pacientes(n)</desc>
+    <credits>
+      <director>Alexandre Bustillo</director>
+      <director>Julien Maury</director>
+      <actor>Sam Strike</actor>
+      <actor>Lili Taylor</actor>
+      <actor>Stephen Dorff</actor>
+      <actor>Vanessa Grasse</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190720233500 -0300" stop="20190721011500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">O Massacre Da Serra Elétrica (2013)</title>
+    <desc lang="pt">Em 1974, a família Sawyer sofre um ataque de moradores da região e apenas um bebê sobrevive. Anos depois, Heather Miller descobre que herdou a mansão. Lá, ela descobre que além da casa, um cruel legado foi deixado pela família(n)</desc>
+    <credits>
+      <director>John Luessenhop</director>
+      <actor>Alexandra Daddario</actor>
+      <actor>Scott Eastwood</actor>
+      <actor>Tania Raymonde</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20190719013000 -0300" stop="20190719032500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Imperium: Resistência Sem Líder</title>
+    <desc lang="pt">O analista do FBI Nate Foster recebe uma missão: trabalhar infiltrado em um grupo de neonazistas. Enquanto tenta desmantelar a célula, Foster precisará lidar com os desafios de uma nova identidade e agir contra seus princípios(n)</desc>
+    <credits>
+      <director>Daniel Ragussis</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Toni Collette</actor>
+      <actor>Tracy Letts</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719032500 -0300" stop="20190719051500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Cake - Uma Razão Para Viver</title>
+    <desc lang="pt">Claire é uma mulher infeliz depois de muitos traumas em sua vida. Após a morte de uma colega de grupo de apoio, ela decide investigar sua vida e acaba em uma jornada de autoconhecimento e reflexão(n)</desc>
+    <credits>
+      <director>Daniel Barnz</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Adriana Barraza</actor>
+      <actor>Anna Kendrick</actor>
+      <actor>Sam Worthington</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719051500 -0300" stop="20190719070000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Um Encontro Com Seu Ídolo</title>
+    <desc lang="pt">Rosalee é uma jovem do interior, ingênua e cheia de sonhos. Ao participar de um concurso, ela ganha um encontro com seu ídolo, um astro do cinema. Isso desperta o desespero de Pete, seu amigo, que esconde uma paixão pela moça(n)</desc>
+    <credits>
+      <director>Robert Luketic</director>
+      <actor>Kate Bosworth</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Topher Grace</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719070000 -0300" stop="20190719085000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Que Haja Luz</title>
+    <desc lang="pt">Sol é um ateu que ao sofrer um grave acidente que o deixa à beira da morte, ele começa a questionar suas convicções antigas. Ele passará por mudanças radicais, deixando de lado muitas de suas certezas(n)</desc>
+    <credits>
+      <director>Kevin Sorbo</director>
+      <actor>Kevin Sorbo</actor>
+      <actor>Daniel Roebuck</actor>
+      <actor>Gary Grubbs</actor>
+      <actor>Sam Sorbo</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719085000 -0300" stop="20190719104000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">As Palavras</title>
+    <desc lang="pt">Rory é um escritor que enfrenta dificuldades para escrever, ele então encontra um antigo manuscrito sem dono e decide publicá-lo como se fosse seu. O livro faz um grande sucesso, tornando Rory muito famoso(n)</desc>
+    <credits>
+      <director>Brian Klugman</director>
+      <director>Lee Sternthal</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Zoe Saldana</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719104000 -0300" stop="20190719130500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Quiz Show - A Verdade Dos Bastidores</title>
+    <desc lang="pt">Rob Marrow é um advogado que trabalha para um comitê no congresso dos Estado Unidos. Ele suspeita que um programa de conhecimentos gerais está trapaceando, dando a certos concorrentes as respostas antes das perguntas(n)</desc>
+    <credits>
+      <director>Robert Redford</director>
+      <actor>Ralph Fiennes</actor>
+      <actor>John Turturro</actor>
+      <actor>Paul Scofield</actor>
+      <actor>Rob Morrow</actor>
+    </credits>
+    <date>1994</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719130500 -0300" stop="20190719145000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Uma Noite Real</title>
+    <desc lang="pt">A Segunda Guerra Mundial chegou ao fim. No Palácio de Buckingham, a futura rainha Elizabeth II e sua irmã, princesa Margaret, conseguem permissão para ir a uma festa fora do palácio(n)</desc>
+    <credits>
+      <director>Julian Jarrold</director>
+      <actor>Sarah Gadon</actor>
+      <actor>Bel Powley</actor>
+      <actor>Emily Watson</actor>
+      <actor>Jack Reynor</actor>
+      <actor>Rupert Everett</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719145000 -0300" stop="20190719164500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">A Família Bélier</title>
+    <desc lang="pt">Paula é uma adolescente cujos pais e irmão são surdos. Ela tem um papel essencial na administração da fazenda e como intérprete da família(n)</desc>
+    <credits>
+      <director>Eric Lartigau</director>
+      <actor>Louane Emera</actor>
+      <actor>Eric Elmosnino</actor>
+      <actor>François Damiens</actor>
+      <actor>Ilian Bergala</actor>
+      <actor>Karin Viard</actor>
+      <actor>Luca Gelberg</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719164500 -0300" stop="20190719183500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">O Show De Truman: O Show Da Vida</title>
+    <desc lang="pt">Truman é um pacato vendedor de seguros que leva uma vida simples. Após conhecer a misteriosa Lauren, ele acaba descobrindo que toda sua vida é monitorada por câmeras e transmitida em rede nacional(n)</desc>
+    <credits>
+      <director>Peter Weir</director>
+      <actor>Jim Carrey</actor>
+      <actor>Ed Harris</actor>
+      <actor>Laura Linney</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719183500 -0300" stop="20190719202500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Pegando Fogo</title>
+    <desc lang="pt">Adam Jones já foi um dos mais respeitados chefs de Paris, mas a atitude arrogante e o consumo excessivo de drogas o levaram ao fracasso(n)</desc>
+    <credits>
+      <director>John Wells</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Daniel Brühl</actor>
+      <actor>Sienna Miller</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719202500 -0300" stop="20190719220000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">O Casamento Do Ano</title>
+    <desc lang="pt">Missy e Al se conhecem desde crianças e estão prestes a se casar. Quando ele recebe a notícia de que sua mãe biológica virá ao casamento, seus pais adotivos precisarão fingir que ainda são casados e felizes para não decepcioná-la(n)</desc>
+    <credits>
+      <director>Justin Zackham</director>
+      <actor>Robert De Niro</actor>
+      <actor>Amanda Seyfried</actor>
+      <actor>Diane Keaton</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719220000 -0300" stop="20190720013000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Uma Longa Jornada</title>
+    <desc lang="pt">Sophia é uma estudante de arte e Luke um jovem peão de rodeio. Eles logo se apaixonam apesar de pertencerem a mundos diferentes(n)</desc>
+    <credits>
+      <director>George Tillman Jr</director>
+      <actor>Scott Eastwood</actor>
+      <actor>Alan Alda</actor>
+      <actor>Britt Robertson</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720013000 -0300" stop="20190720032500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Imperium: Resistência Sem Líder</title>
+    <desc lang="pt">O analista do FBI Nate Foster recebe uma missão: trabalhar infiltrado em um grupo de neonazistas. Enquanto tenta desmantelar a célula, Foster precisará lidar com os desafios de uma nova identidade e agir contra seus princípios(n)</desc>
+    <credits>
+      <director>Daniel Ragussis</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Toni Collette</actor>
+      <actor>Tracy Letts</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720032500 -0300" stop="20190720051500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Cake - Uma Razão Para Viver</title>
+    <desc lang="pt">Claire é uma mulher infeliz depois de muitos traumas em sua vida. Após a morte de uma colega de grupo de apoio, ela decide investigar sua vida e acaba em uma jornada de autoconhecimento e reflexão(n)</desc>
+    <credits>
+      <director>Daniel Barnz</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Adriana Barraza</actor>
+      <actor>Anna Kendrick</actor>
+      <actor>Sam Worthington</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720051500 -0300" stop="20190720070000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Um Encontro Com Seu Ídolo</title>
+    <desc lang="pt">Rosalee é uma jovem do interior, ingênua e cheia de sonhos. Ao participar de um concurso, ela ganha um encontro com seu ídolo, um astro do cinema. Isso desperta o desespero de Pete, seu amigo, que esconde uma paixão pela moça(n)</desc>
+    <credits>
+      <director>Robert Luketic</director>
+      <actor>Kate Bosworth</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Topher Grace</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720070000 -0300" stop="20190720085000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Que Haja Luz</title>
+    <desc lang="pt">Sol é um ateu que ao sofrer um grave acidente que o deixa à beira da morte, ele começa a questionar suas convicções antigas. Ele passará por mudanças radicais, deixando de lado muitas de suas certezas(n)</desc>
+    <credits>
+      <director>Kevin Sorbo</director>
+      <actor>Kevin Sorbo</actor>
+      <actor>Daniel Roebuck</actor>
+      <actor>Gary Grubbs</actor>
+      <actor>Sam Sorbo</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720085000 -0300" stop="20190720104000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">As Palavras</title>
+    <desc lang="pt">Rory é um escritor que enfrenta dificuldades para escrever, ele então encontra um antigo manuscrito sem dono e decide publicá-lo como se fosse seu. O livro faz um grande sucesso, tornando Rory muito famoso(n)</desc>
+    <credits>
+      <director>Brian Klugman</director>
+      <director>Lee Sternthal</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Zoe Saldana</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720104000 -0300" stop="20190720130500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Quiz Show - A Verdade Dos Bastidores</title>
+    <desc lang="pt">Rob Marrow é um advogado que trabalha para um comitê no congresso dos Estado Unidos. Ele suspeita que um programa de conhecimentos gerais está trapaceando, dando a certos concorrentes as respostas antes das perguntas(n)</desc>
+    <credits>
+      <director>Robert Redford</director>
+      <actor>Ralph Fiennes</actor>
+      <actor>John Turturro</actor>
+      <actor>Paul Scofield</actor>
+      <actor>Rob Morrow</actor>
+    </credits>
+    <date>1994</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720130500 -0300" stop="20190720145000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Uma Noite Real</title>
+    <desc lang="pt">A Segunda Guerra Mundial chegou ao fim. No Palácio de Buckingham, a futura rainha Elizabeth II e sua irmã, princesa Margaret, conseguem permissão para ir a uma festa fora do palácio(n)</desc>
+    <credits>
+      <director>Julian Jarrold</director>
+      <actor>Sarah Gadon</actor>
+      <actor>Bel Powley</actor>
+      <actor>Emily Watson</actor>
+      <actor>Jack Reynor</actor>
+      <actor>Rupert Everett</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720145000 -0300" stop="20190720164500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">A Família Bélier</title>
+    <desc lang="pt">Paula é uma adolescente cujos pais e irmão são surdos. Ela tem um papel essencial na administração da fazenda e como intérprete da família(n)</desc>
+    <credits>
+      <director>Eric Lartigau</director>
+      <actor>Louane Emera</actor>
+      <actor>Eric Elmosnino</actor>
+      <actor>François Damiens</actor>
+      <actor>Ilian Bergala</actor>
+      <actor>Karin Viard</actor>
+      <actor>Luca Gelberg</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720164500 -0300" stop="20190720183500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">O Show De Truman: O Show Da Vida</title>
+    <desc lang="pt">Truman é um pacato vendedor de seguros que leva uma vida simples. Após conhecer a misteriosa Lauren, ele acaba descobrindo que toda sua vida é monitorada por câmeras e transmitida em rede nacional(n)</desc>
+    <credits>
+      <director>Peter Weir</director>
+      <actor>Jim Carrey</actor>
+      <actor>Ed Harris</actor>
+      <actor>Laura Linney</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720183500 -0300" stop="20190720202500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Pegando Fogo</title>
+    <desc lang="pt">Adam Jones já foi um dos mais respeitados chefs de Paris, mas a atitude arrogante e o consumo excessivo de drogas o levaram ao fracasso(n)</desc>
+    <credits>
+      <director>John Wells</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Daniel Brühl</actor>
+      <actor>Sienna Miller</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720202500 -0300" stop="20190720220000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">O Casamento Do Ano</title>
+    <desc lang="pt">Missy e Al se conhecem desde crianças e estão prestes a se casar. Quando ele recebe a notícia de que sua mãe biológica virá ao casamento, seus pais adotivos precisarão fingir que ainda são casados e felizes para não decepcioná-la(n)</desc>
+    <credits>
+      <director>Justin Zackham</director>
+      <actor>Robert De Niro</actor>
+      <actor>Amanda Seyfried</actor>
+      <actor>Diane Keaton</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720220000 -0300" stop="20190721001500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Uma Longa Jornada</title>
+    <desc lang="pt">Sophia é uma estudante de arte e Luke um jovem peão de rodeio. Eles logo se apaixonam apesar de pertencerem a mundos diferentes(n)</desc>
+    <credits>
+      <director>George Tillman Jr</director>
+      <actor>Scott Eastwood</actor>
+      <actor>Alan Alda</actor>
+      <actor>Britt Robertson</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719010500 -0300" stop="20190719023500 -0300" channel="TELECINE FUN">
+    <title lang="pt">O Comédia</title>
+    <desc lang="pt">Após fornecer informações para a polícia sobre seus companheiros de gangue, Sammy é obrigado a se mudar para uma pequena cidade e a usar um nome diferente(n)</desc>
+    <credits>
+      <director>Mike Young</director>
+      <actor>Danny A. Abeckaser</actor>
+      <actor>Annie Heise</actor>
+      <actor>Michael Rapaport</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719023500 -0300" stop="20190719042500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Mortdecai - A Arte Da Trapaça</title>
+    <desc lang="pt">Mortdecai é um famoso negociador de arte que está com dificuldades financeiras. Para ter sua divida perdoada, ele precisa procurar um quadro roubado no qual foi escondido um código para um tesouro(n)</desc>
+    <credits>
+      <director>David Koepp</director>
+      <actor>Johnny Depp</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Paul Bettany</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719042500 -0300" stop="20190719060500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Bye Bye Jaqueline</title>
+    <desc lang="pt">Jaqueline é uma estudante apaixonada por seu colega de escola, Fernando. Mas ela não sabe que sua melhor amiga já namorou o rapaz e que ele esconde um segredo que pode colocar tudo a perder(n)</desc>
+    <credits>
+      <director>Anderson Simão</director>
+      <actor>Poliana Oliveira</actor>
+      <actor>Gabrielle Pizzato Santana</actor>
+      <actor>Leonardo Oliveira</actor>
+      <actor>Victor Carlim</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719060500 -0300" stop="20190719074500 -0300" channel="TELECINE FUN">
+    <title lang="pt">As Apimentadas Mandando Ver</title>
+    <desc lang="pt">Após um corte de gastos da universidade, as líderes de torcida Whittier e Monica criam uma equipe com todas as garotas excluídas e longe da mandona capitã Tina(n)</desc>
+    <credits>
+      <director>Damon Santostefano</director>
+      <actor>Anne Judson-Yager</actor>
+      <actor>Bree Turner</actor>
+      <actor>Kevin Cooney</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719074500 -0300" stop="20190719093500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Turma Da Pesada</title>
+    <desc lang="pt">Gerry é um garoto que está acima do peso. Quando seus pais decidem colocá-lo em um acampamento de jovens obesos, ele fica furioso, mas acaba indo(n)</desc>
+    <credits>
+      <director>Steven Brill</director>
+      <actor>Ben Stiller</actor>
+      <actor>Aaron Schwartz</actor>
+      <actor>Allen Covert</actor>
+      <actor>David Goldman</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719093500 -0300" stop="20190719112500 -0300" channel="TELECINE FUN">
+    <title lang="pt">As Namoradas Do Papai</title>
+    <desc lang="pt">Amanda e Alyssa são duas meninas idênticas nascidas em mundos diferentes. Alyssa é filha de Roger, um homem bem-sucedido. Já Amanda é órfã e deseja muito que Diane, sua assistente social, seja sua mãe(n)</desc>
+    <credits>
+      <director>Andy Tennant</director>
+      <actor>Ashley Olsen</actor>
+      <actor>Mary-Kate Olsen</actor>
+      <actor>Kirstie Alley</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719112500 -0300" stop="20190719131000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Joey - Um Canguru Em Apuros</title>
+    <desc lang="pt">Após descobrir que o filhote de canguru Joey foi separado de seus pais, o garoto Billy embarca numa arriscada aventura até Sydney com o intuito de uní-los novamente. Ao lado da pequena Linda, o menino descobre que há muito mais pr(n)</desc>
+    <credits>
+      <director>Ian Barry</director>
+      <actor>Alex McKenna</actor>
+      <actor>Ed Begley Jr</actor>
+      <actor>Jamie Croft</actor>
+      <actor>Rebecca Gibney</actor>
+    </credits>
+    <date>1997</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719131000 -0300" stop="20190719144500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Johnny English</title>
+    <desc lang="pt">Johnny English é convocado para recuperar as joias da Coroa britânica e conta com a ajuda da bela Lorna. Juntos, eles enfrentarão o perigoso ladrão Pascal Sauvage(n)</desc>
+    <credits>
+      <director>Peter Howitt</director>
+      <actor>Rowan Atkinson</actor>
+      <actor>Ben Miller</actor>
+      <actor>John Malkovich</actor>
+      <actor>Natalie Imbruglia</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719144500 -0300" stop="20190719164000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Um Suburbano Sortudo</title>
+    <desc lang="pt">A vida do humilde Denílson muda quando ele descobre ser herdeiro de um milionário. Agora ele vai frequentar a alta sociedade e mostrar a eles como um verdadeiro suburbano se diverte(n)</desc>
+    <credits>
+      <director>Marcelo Antunez</director>
+      <director>Roberto Santucci</director>
+      <actor>Rodrigo Sant'anna</actor>
+      <actor>Carol Castro</actor>
+      <actor>Cláudia Alencar</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719164000 -0300" stop="20190719182500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Pica-Pau: O Filme</title>
+    <desc lang="pt">Lance Walters é um advogado. Com Vanessa, sua esposa, ele decide construir uma mansão no meio da floresta. Lá, ele terá que enfrentar as traquinagens do Pica-Pau, que fará de tudo para impedir que a obra vá adiante(n)</desc>
+    <credits>
+      <director>Alex Zamm</director>
+      <actor>Eric Bauza</actor>
+      <actor>Graham Verchere</actor>
+      <actor>Thaila Ayala</actor>
+      <actor>Thimoty Omundson</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719182500 -0300" stop="20190719202000 -0300" channel="TELECINE FUN">
+    <title lang="pt">A Repartição Do Tempo</title>
+    <desc lang="pt">Durante os anos 1980, um cientista deixa uma máquina do tempo na repartição de registros de patentes de Brasília(n)</desc>
+    <credits>
+      <director>Santiago Dellape</director>
+      <actor>André Deca</actor>
+      <actor>Bianca Müller</actor>
+      <actor>Dedé Santana</actor>
+      <actor>Edu Moraes</actor>
+      <actor>Eucir De Souza</actor>
+      <actor>Selma Egrei</actor>
+      <actor>Sérgio Sartório</actor>
+      <actor>Tonico Pereira</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719202000 -0300" stop="20190719220000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Belas E Perseguidas</title>
+    <desc lang="pt">Cooper precisa proteger Daniella Riva, que testemunhará no caso de um importante traficante. Mas o que no início se tratava apenas de uma escolta até a cidade de Dallas acaba se transformando em uma divertida e arriscada fuga(n)</desc>
+    <credits>
+      <director>Anne Fletcher</director>
+      <actor>Reese Witherspoon</actor>
+      <actor>Matthew Del Negro</actor>
+      <actor>Sofía Vergara</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719220000 -0300" stop="20190720010500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Você De Novo</title>
+    <desc lang="pt">O período escolar não traz boas lembranças para Marni. Ela só não imaginava que o casamento do seu irmão resgataria tudo outra vez, pelo fato da sua futura cunhada ser a sua grande rival da escola(n)</desc>
+    <credits>
+      <director>Andy Fickman</director>
+      <actor>Kristen Bell</actor>
+      <actor>Betty White</actor>
+      <actor>Jamie Lee Curtis</actor>
+      <actor>Sigourney Weaver</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720010500 -0300" stop="20190720023500 -0300" channel="TELECINE FUN">
+    <title lang="pt">O Comédia</title>
+    <desc lang="pt">Após fornecer informações para a polícia sobre seus companheiros de gangue, Sammy é obrigado a se mudar para uma pequena cidade e a usar um nome diferente(n)</desc>
+    <credits>
+      <director>Mike Young</director>
+      <actor>Danny A. Abeckaser</actor>
+      <actor>Annie Heise</actor>
+      <actor>Michael Rapaport</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720023500 -0300" stop="20190720042500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Mortdecai - A Arte Da Trapaça</title>
+    <desc lang="pt">Mortdecai é um famoso negociador de arte que está com dificuldades financeiras. Para ter sua divida perdoada, ele precisa procurar um quadro roubado no qual foi escondido um código para um tesouro(n)</desc>
+    <credits>
+      <director>David Koepp</director>
+      <actor>Johnny Depp</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Paul Bettany</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720042500 -0300" stop="20190720060500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Bye Bye Jaqueline</title>
+    <desc lang="pt">Jaqueline é uma estudante apaixonada por seu colega de escola, Fernando. Mas ela não sabe que sua melhor amiga já namorou o rapaz e que ele esconde um segredo que pode colocar tudo a perder(n)</desc>
+    <credits>
+      <director>Anderson Simão</director>
+      <actor>Poliana Oliveira</actor>
+      <actor>Gabrielle Pizzato Santana</actor>
+      <actor>Leonardo Oliveira</actor>
+      <actor>Victor Carlim</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720060500 -0300" stop="20190720074500 -0300" channel="TELECINE FUN">
+    <title lang="pt">As Apimentadas Mandando Ver</title>
+    <desc lang="pt">Após um corte de gastos da universidade, as líderes de torcida Whittier e Monica criam uma equipe com todas as garotas excluídas e longe da mandona capitã Tina(n)</desc>
+    <credits>
+      <director>Damon Santostefano</director>
+      <actor>Anne Judson-Yager</actor>
+      <actor>Bree Turner</actor>
+      <actor>Kevin Cooney</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720074500 -0300" stop="20190720093500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Turma Da Pesada</title>
+    <desc lang="pt">Gerry é um garoto que está acima do peso. Quando seus pais decidem colocá-lo em um acampamento de jovens obesos, ele fica furioso, mas acaba indo(n)</desc>
+    <credits>
+      <director>Steven Brill</director>
+      <actor>Ben Stiller</actor>
+      <actor>Aaron Schwartz</actor>
+      <actor>Allen Covert</actor>
+      <actor>David Goldman</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720093500 -0300" stop="20190720112500 -0300" channel="TELECINE FUN">
+    <title lang="pt">As Namoradas Do Papai</title>
+    <desc lang="pt">Amanda e Alyssa são duas meninas idênticas nascidas em mundos diferentes. Alyssa é filha de Roger, um homem bem-sucedido. Já Amanda é órfã e deseja muito que Diane, sua assistente social, seja sua mãe(n)</desc>
+    <credits>
+      <director>Andy Tennant</director>
+      <actor>Ashley Olsen</actor>
+      <actor>Mary-Kate Olsen</actor>
+      <actor>Kirstie Alley</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720112500 -0300" stop="20190720131000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Joey - Um Canguru Em Apuros</title>
+    <desc lang="pt">Após descobrir que o filhote de canguru Joey foi separado de seus pais, o garoto Billy embarca numa arriscada aventura até Sydney com o intuito de uní-los novamente. Ao lado da pequena Linda, o menino descobre que há muito mais pr(n)</desc>
+    <credits>
+      <director>Ian Barry</director>
+      <actor>Alex McKenna</actor>
+      <actor>Ed Begley Jr</actor>
+      <actor>Jamie Croft</actor>
+      <actor>Rebecca Gibney</actor>
+    </credits>
+    <date>1997</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720131000 -0300" stop="20190720144500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Johnny English</title>
+    <desc lang="pt">Johnny English é convocado para recuperar as joias da Coroa britânica e conta com a ajuda da bela Lorna. Juntos, eles enfrentarão o perigoso ladrão Pascal Sauvage(n)</desc>
+    <credits>
+      <director>Peter Howitt</director>
+      <actor>Rowan Atkinson</actor>
+      <actor>Ben Miller</actor>
+      <actor>John Malkovich</actor>
+      <actor>Natalie Imbruglia</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720144500 -0300" stop="20190720164000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Um Suburbano Sortudo</title>
+    <desc lang="pt">A vida do humilde Denílson muda quando ele descobre ser herdeiro de um milionário. Agora ele vai frequentar a alta sociedade e mostrar a eles como um verdadeiro suburbano se diverte(n)</desc>
+    <credits>
+      <director>Marcelo Antunez</director>
+      <director>Roberto Santucci</director>
+      <actor>Rodrigo Sant'anna</actor>
+      <actor>Carol Castro</actor>
+      <actor>Cláudia Alencar</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720164000 -0300" stop="20190720182500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Pica-Pau: O Filme</title>
+    <desc lang="pt">Lance Walters é um advogado. Com Vanessa, sua esposa, ele decide construir uma mansão no meio da floresta. Lá, ele terá que enfrentar as traquinagens do Pica-Pau, que fará de tudo para impedir que a obra vá adiante(n)</desc>
+    <credits>
+      <director>Alex Zamm</director>
+      <actor>Eric Bauza</actor>
+      <actor>Graham Verchere</actor>
+      <actor>Thaila Ayala</actor>
+      <actor>Thimoty Omundson</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720182500 -0300" stop="20190720202000 -0300" channel="TELECINE FUN">
+    <title lang="pt">A Repartição Do Tempo</title>
+    <desc lang="pt">Durante os anos 1980, um cientista deixa uma máquina do tempo na repartição de registros de patentes de Brasília(n)</desc>
+    <credits>
+      <director>Santiago Dellape</director>
+      <actor>André Deca</actor>
+      <actor>Bianca Müller</actor>
+      <actor>Dedé Santana</actor>
+      <actor>Edu Moraes</actor>
+      <actor>Eucir De Souza</actor>
+      <actor>Selma Egrei</actor>
+      <actor>Sérgio Sartório</actor>
+      <actor>Tonico Pereira</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720202000 -0300" stop="20190720220000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Belas E Perseguidas</title>
+    <desc lang="pt">Cooper precisa proteger Daniella Riva, que testemunhará no caso de um importante traficante. Mas o que no início se tratava apenas de uma escolta até a cidade de Dallas acaba se transformando em uma divertida e arriscada fuga(n)</desc>
+    <credits>
+      <director>Anne Fletcher</director>
+      <actor>Reese Witherspoon</actor>
+      <actor>Matthew Del Negro</actor>
+      <actor>Sofía Vergara</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720220000 -0300" stop="20190721000000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Você De Novo</title>
+    <desc lang="pt">O período escolar não traz boas lembranças para Marni. Ela só não imaginava que o casamento do seu irmão resgataria tudo outra vez, pelo fato da sua futura cunhada ser a sua grande rival da escola(n)</desc>
+    <credits>
+      <director>Andy Fickman</director>
+      <actor>Kristen Bell</actor>
+      <actor>Betty White</actor>
+      <actor>Jamie Lee Curtis</actor>
+      <actor>Sigourney Weaver</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719001000 -0300" stop="20190719022500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Thor: Ragnarok</title>
+    <desc lang="pt">Aprisionado pelo demônio de fogo Surtur, Thor descobre que precisa retornar com urgência para Asgard e evitar o Ragnarok - a destruição de seu lar e seu povo(n)</desc>
+    <credits>
+      <director>Taika Waititi</director>
+      <actor>Chris Hemsworth</actor>
+      <actor>Anthony Hopkins</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Idris Elba</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Tessa Thompson</actor>
+      <actor>Tom Hiddleston</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719022500 -0300" stop="20190719040500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Mergulho Radical 2: Os Recifes</title>
+    <desc lang="pt">Um casal de mergulhadores recebe uma oferta de muito dinheiro para descobrir um tesouro que afundou no recife. Pensando que suas vidas vão melhorar, eles aceitam o desafio, mas seus novos patrões escondem outras intenções(n)</desc>
+    <credits>
+      <director>Stephen Herek</director>
+      <actor>Chris Carmack</actor>
+      <actor>Laura Vandervoort</actor>
+      <actor>Marsha Thomason</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719040500 -0300" stop="20190719055000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Assaltos Em Cadeia</title>
+    <desc lang="pt">Eddie mantém um estilo de vida glamouroso. Como criou dívidas para manter o alto padrão, ele passa a roubar bancos para pagar os agiotas usando seu charme com as bancárias para não precisar de violência(n)</desc>
+    <credits>
+      <director>Tristan Patterson</director>
+      <actor>Jim Sturgess</actor>
+      <actor>Christopher Lambert</actor>
+      <actor>Isabel Lucas</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719055000 -0300" stop="20190719071500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Liga da Justiça Sombria</title>
+    <desc lang="pt">Quando seres do mal que lidam com magia começam a aterrorizar a cidade, os integrantes da Liga da Justiça ficam de mãos atadas. O único jeito de salvar a população deste poder malígno é convocar um grupo de anti-heróis(n)</desc>
+    <credits>
+      <director>Jay Oliva</director>
+      <actor>Rosario Dawson</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Camilla Luddington</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719071500 -0300" stop="20190719085500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Uma Família Feliz</title>
+    <desc lang="pt">A família Wishbone tem dificuldades em se relacionar. Para tentar animar os ânimos, eles vão a uma festa a fantasia que acaba não saindo como o esperado(n)</desc>
+    <credits>
+      <director>Holger Tappe</director>
+      <actor>Emily Watson</actor>
+      <actor>Jason Isaacs</actor>
+      <actor>Nick Frost</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719085500 -0300" stop="20190719105000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Christopher Robin - Um Reencontro Inesquecível</title>
+    <desc lang="pt">O menino sonhador Christopher Robin dá lugar a um homem focado no trabalho e sem tempo para a família. Apesar disso, seu amigo Ursinho Pooh ressurge pedindo ajuda para reencontrar Tigrão e sua turma(n)</desc>
+    <credits>
+      <director>Marc Forster</director>
+      <actor>Ewan McGregor</actor>
+      <actor>Bronte Carmichael</actor>
+      <actor>Hayley Atwell</actor>
+      <actor>Mark Gatiss</actor>
+      <actor>Roger Ashton-Griffiths</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719105000 -0300" stop="20190719124000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Procurando Dory</title>
+    <desc lang="pt">A esquecida Dory agora vive tranquila nos recifes junto de seus amigos Marlin e Nemo. Inesperadamente, ela se lembra dos pais e pensa que a família pode estar procurando pela filha perdida(n)</desc>
+    <credits>
+      <director>Andrew Stanton</director>
+      <director>Angus Maclane</director>
+      <actor>Ellen Degeneres</actor>
+      <actor>Albert Brooks</actor>
+      <actor>Diane Keaton</actor>
+      <actor>Hayden Rolence</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719124000 -0300" stop="20190719143000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Grinch, O (2000)</title>
+    <desc lang="pt">O Grinch odeia o Natal. Com a data festiva se aproximando para as pessoas de Quemlândia, o cruel homem verde bola um terrível plano. Ele decide roubar os presentes dos habitantes para estragar seu espirito de Natal(n)</desc>
+    <credits>
+      <director>Ron Harward</director>
+      <actor>Jim Carrey</actor>
+      <actor>Christine Baranski</actor>
+      <actor>Jeffrey Tambor</actor>
+      <actor>Taylor Momsen</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190719143000 -0300" stop="20190719165000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Truque De Mestre: O 2º Ato</title>
+    <desc lang="pt">O grupo de ilusionistas(n)</desc>
+    <credits>
+      <director>Jon M. Chu</director>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Woody Harrelson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190719165000 -0300" stop="20190719183000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Medo Profundo</title>
+    <desc lang="pt">De férias no México, duas irmãs decidem observar tubarões numa jaula submersa no oceano. Quando a corrente presa ao barco é rompida, Lisa e Kate chegam a 47 metros de profundidade(n)</desc>
+    <credits>
+      <director>Johannes Roberts</director>
+      <actor>Mandy Moore</actor>
+      <actor>Claire Holt</actor>
+      <actor>Matthew Modine</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719183000 -0300" stop="20190719202000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Verdade Ou Desafio</title>
+    <desc lang="pt">Um grupo de amigos faz uma viagem de férias para o México. Durante uma festa, os jovens conhecem um homem que os convida para continuar a noite em um lugar diferente(n)</desc>
+    <credits>
+      <director>Jeff Wadlow</director>
+      <actor>Lucy Hale</actor>
+      <actor>Nolan Gerard Funk</actor>
+      <actor>Tyler Posey</actor>
+      <actor>Violett Beane</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190719202000 -0300" stop="20190719220000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Um Dia Para Viver</title>
+    <desc lang="pt">Travis é um assassino profissional designado para matar um homem que, caso dê um testemunho, poderá acabar com uma organização ilegal. Mas, antes que finalizasse o trabalho, Travis morre(n)</desc>
+    <credits>
+      <director>Brian Smrz</director>
+      <actor>Ethan Hawke</actor>
+      <actor>Paul Anderson</actor>
+      <actor>Qing Xu</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190719220000 -0300" stop="20190720001000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Vingadores: Guerra Infinita</title>
+    <desc lang="pt">O cruel Thanos pretende reunir todas as Jóias do Infinito em sua manopla para tornar-se o mais poderoso da galáxia e ser capaz de decidir o futuro da humanidade(n)</desc>
+    <credits>
+      <director>Anthony Russo</director>
+      <director>Joe Russo</director>
+      <actor>Josh Brolin</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Chadwick Boseman</actor>
+      <actor>Chris Evans</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Elizabeth Olsen</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Paul Bettany</actor>
+      <actor>Pom Klementieff</actor>
+      <actor>Robert Downey Jr</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Stan Sebas</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720001000 -0300" stop="20190720022500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Thor: Ragnarok</title>
+    <desc lang="pt">Aprisionado pelo demônio de fogo Surtur, Thor descobre que precisa retornar com urgência para Asgard e evitar o Ragnarok - a destruição de seu lar e seu povo(n)</desc>
+    <credits>
+      <director>Taika Waititi</director>
+      <actor>Chris Hemsworth</actor>
+      <actor>Anthony Hopkins</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Idris Elba</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Tessa Thompson</actor>
+      <actor>Tom Hiddleston</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720022500 -0300" stop="20190720040500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Mergulho Radical 2: Os Recifes</title>
+    <desc lang="pt">Um casal de mergulhadores recebe uma oferta de muito dinheiro para descobrir um tesouro que afundou no recife. Pensando que suas vidas vão melhorar, eles aceitam o desafio, mas seus novos patrões escondem outras intenções(n)</desc>
+    <credits>
+      <director>Stephen Herek</director>
+      <actor>Chris Carmack</actor>
+      <actor>Laura Vandervoort</actor>
+      <actor>Marsha Thomason</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720040500 -0300" stop="20190720055000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Assaltos Em Cadeia</title>
+    <desc lang="pt">Eddie mantém um estilo de vida glamouroso. Como criou dívidas para manter o alto padrão, ele passa a roubar bancos para pagar os agiotas usando seu charme com as bancárias para não precisar de violência(n)</desc>
+    <credits>
+      <director>Tristan Patterson</director>
+      <actor>Jim Sturgess</actor>
+      <actor>Christopher Lambert</actor>
+      <actor>Isabel Lucas</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720055000 -0300" stop="20190720071500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Liga da Justiça Sombria</title>
+    <desc lang="pt">Quando seres do mal que lidam com magia começam a aterrorizar a cidade, os integrantes da Liga da Justiça ficam de mãos atadas. O único jeito de salvar a população deste poder malígno é convocar um grupo de anti-heróis(n)</desc>
+    <credits>
+      <director>Jay Oliva</director>
+      <actor>Rosario Dawson</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Camilla Luddington</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720071500 -0300" stop="20190720085500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Uma Família Feliz</title>
+    <desc lang="pt">A família Wishbone tem dificuldades em se relacionar. Para tentar animar os ânimos, eles vão a uma festa a fantasia que acaba não saindo como o esperado(n)</desc>
+    <credits>
+      <director>Holger Tappe</director>
+      <actor>Emily Watson</actor>
+      <actor>Jason Isaacs</actor>
+      <actor>Nick Frost</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720085500 -0300" stop="20190720105000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Christopher Robin - Um Reencontro Inesquecível</title>
+    <desc lang="pt">O menino sonhador Christopher Robin dá lugar a um homem focado no trabalho e sem tempo para a família. Apesar disso, seu amigo Ursinho Pooh ressurge pedindo ajuda para reencontrar Tigrão e sua turma(n)</desc>
+    <credits>
+      <director>Marc Forster</director>
+      <actor>Ewan McGregor</actor>
+      <actor>Bronte Carmichael</actor>
+      <actor>Hayley Atwell</actor>
+      <actor>Mark Gatiss</actor>
+      <actor>Roger Ashton-Griffiths</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720105000 -0300" stop="20190720124000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Procurando Dory</title>
+    <desc lang="pt">A esquecida Dory agora vive tranquila nos recifes junto de seus amigos Marlin e Nemo. Inesperadamente, ela se lembra dos pais e pensa que a família pode estar procurando pela filha perdida(n)</desc>
+    <credits>
+      <director>Andrew Stanton</director>
+      <director>Angus Maclane</director>
+      <actor>Ellen Degeneres</actor>
+      <actor>Albert Brooks</actor>
+      <actor>Diane Keaton</actor>
+      <actor>Hayden Rolence</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720124000 -0300" stop="20190720143000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Grinch, O (2000)</title>
+    <desc lang="pt">O Grinch odeia o Natal. Com a data festiva se aproximando para as pessoas de Quemlândia, o cruel homem verde bola um terrível plano. Ele decide roubar os presentes dos habitantes para estragar seu espirito de Natal(n)</desc>
+    <credits>
+      <director>Ron Harward</director>
+      <actor>Jim Carrey</actor>
+      <actor>Christine Baranski</actor>
+      <actor>Jeffrey Tambor</actor>
+      <actor>Taylor Momsen</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190720143000 -0300" stop="20190720165000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Truque De Mestre: O 2º Ato</title>
+    <desc lang="pt">O grupo de ilusionistas(n)</desc>
+    <credits>
+      <director>Jon M. Chu</director>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Woody Harrelson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190720165000 -0300" stop="20190720183000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Medo Profundo</title>
+    <desc lang="pt">De férias no México, duas irmãs decidem observar tubarões numa jaula submersa no oceano. Quando a corrente presa ao barco é rompida, Lisa e Kate chegam a 47 metros de profundidade(n)</desc>
+    <credits>
+      <director>Johannes Roberts</director>
+      <actor>Mandy Moore</actor>
+      <actor>Claire Holt</actor>
+      <actor>Matthew Modine</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720183000 -0300" stop="20190720202000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Verdade Ou Desafio</title>
+    <desc lang="pt">Um grupo de amigos faz uma viagem de férias para o México. Durante uma festa, os jovens conhecem um homem que os convida para continuar a noite em um lugar diferente(n)</desc>
+    <credits>
+      <director>Jeff Wadlow</director>
+      <actor>Lucy Hale</actor>
+      <actor>Nolan Gerard Funk</actor>
+      <actor>Tyler Posey</actor>
+      <actor>Violett Beane</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190720202000 -0300" stop="20190720220000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Um Dia Para Viver</title>
+    <desc lang="pt">Travis é um assassino profissional designado para matar um homem que, caso dê um testemunho, poderá acabar com uma organização ilegal. Mas, antes que finalizasse o trabalho, Travis morre(n)</desc>
+    <credits>
+      <director>Brian Smrz</director>
+      <actor>Ethan Hawke</actor>
+      <actor>Paul Anderson</actor>
+      <actor>Qing Xu</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190720220000 -0300" stop="20190721003500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Vingadores: Guerra Infinita</title>
+    <desc lang="pt">O cruel Thanos pretende reunir todas as Jóias do Infinito em sua manopla para tornar-se o mais poderoso da galáxia e ser capaz de decidir o futuro da humanidade(n)</desc>
+    <credits>
+      <director>Anthony Russo</director>
+      <director>Joe Russo</director>
+      <actor>Josh Brolin</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Chadwick Boseman</actor>
+      <actor>Chris Evans</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Elizabeth Olsen</actor>
+      <actor>Mark Ruffalo</actor>
+      <actor>Paul Bettany</actor>
+      <actor>Pom Klementieff</actor>
+      <actor>Robert Downey Jr</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Stan Sebas</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+</tv>
